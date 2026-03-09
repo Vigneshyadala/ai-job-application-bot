@@ -1,0 +1,268 @@
+[2025-12-11 21:20:05] ================================================================================
+[2025-12-11 21:20:05] ╔═══════════════════════════════════════════════════════════════════════════════╗
+[2025-12-11 21:20:05] ║           🤖 ENHANCED AI JOB APPLICATION BOT - MULTI COMPANY                 ║
+[2025-12-11 21:20:05] ║           👨‍💻 Developed by: Vignesh Yadala                                    ║
+[2025-12-11 21:20:05] ║           📅 Version: December 2025                                           ║
+[2025-12-11 21:20:05] ║           🚀 Powered by Google Gemini AI                                      ║
+[2025-12-11 21:20:05] ╚═══════════════════════════════════════════════════════════════════════════════╝
+[2025-12-11 21:20:05] ================================================================================
+[2025-12-11 21:20:05] 🎯 Target Roles: Python Developer, Data Scientist, Software Engineer, Machine Learning Engineer
+[2025-12-11 21:20:05] 📍 Target Locations: Bangalore, Mumbai, Hyderabad, Chennai, Remote
+[2025-12-11 21:20:05] 🏢 Companies: Naukri + 14 major tech companies
+[2025-12-11 21:20:05] 📊 Min Match Score: 75%
+[2025-12-11 21:20:05] 📝 Max Applications: 10
+[2025-12-11 21:20:05] ================================================================================
+[2025-12-11 21:20:08] 🔐 Logging into Naukri.com...
+[2025-12-11 21:20:19] ✅ Login successful!
+[2025-12-11 21:20:19] 
+🔍 PHASE 1: Scraping Naukri.com...
+[2025-12-11 21:20:19] 🔍 Naukri: Python Developer in Bangalore
+[2025-12-11 21:20:25]   ✓ Opening For Python (AI/ML) Developer at Infosys
+[2025-12-11 21:20:25]   ✓ Python Developer at IBM
+[2025-12-11 21:20:25]   ✓ Developer - Python at Wipro
+[2025-12-11 21:20:25]   ✓ Python Software Developer at HCLTech
+[2025-12-11 21:20:26]   ✓ Python Software Developer at Tata Consultancy Services
+[2025-12-11 21:20:26]   ✓ Hiring For Python Developer at EY
+[2025-12-11 21:20:26]   ✓ Python Developer at Tata Technologies
+[2025-12-11 21:20:26]   ✓ Python Developer at NetApp
+[2025-12-11 21:20:27]   ✓ Python Developer at Mercedes Benz
+[2025-12-11 21:20:27]   ✓ Python Developer at Quantum Leap Consulting
+[2025-12-11 21:20:29] 🔍 Naukri: Python Developer in Mumbai
+[2025-12-11 21:20:32]   ✓ PYTHON DEVELOPER at Capgemini
+[2025-12-11 21:20:32]   ✓ Python Software Developer & Infosys- Pan India at Infosys
+[2025-12-11 21:20:33]   ✓ Python Software Developer at Naukri
+[2025-12-11 21:20:33]   ✓ Python Developer at Overture Rede
+[2025-12-11 21:20:33]   ✓ python Developer at HCLTech
+[2025-12-11 21:20:33]   ✓ Tcs Walk In Drive - Python Developer|| Mumbai at Tata Consultancy Services
+[2025-12-11 21:20:33]   ✓ Python Software Developer at Deloitte Consulting
+[2025-12-11 21:20:33]   ✓ SDE - 2 | Python Developer at Fynd (Shopsense Retail Technologies Ltd.)
+[2025-12-11 21:20:34]   ✓ Senior Software Developer (SSD) - Python & AWS at Lenden Club Techserve
+[2025-12-11 21:20:34]   ✓ Python Developer (Mid-Level) at Soul Ai
+[2025-12-11 21:20:36] 🔍 Naukri: Python Developer in Hyderabad
+[2025-12-11 21:20:40]   ✓ Risk and Finance Python with ADB Developer at Capgemini
+[2025-12-11 21:20:40]   ✓ python Developer at Cognizant
+[2025-12-11 21:20:40]   ✓ Python Developer ( Bengaluru, Hyderabad, Pune) at Infosys
+[2025-12-11 21:20:40]   ✓ Python Developer at Oracle
+[2025-12-11 21:20:40]   ✓ Python Software Developer at Tata Consultancy Services
+[2025-12-11 21:20:40]   ✓ Python Developer at Zensar
+[2025-12-11 21:20:40]   ✓ Python Developer - Third Party payroll at Crisil
+[2025-12-11 21:20:41]   ✓ Python Developer at Apple
+[2025-12-11 21:20:41]   ✓ Python Developer at Indium Software
+[2025-12-11 21:20:41]   ✓ AI Python Developer at TEKsystems
+[2025-12-11 21:20:43] 🔍 Naukri: Python Developer in Chennai
+[2025-12-11 21:20:47]   ✓ Python Developer at Infosys
+[2025-12-11 21:20:47]   ✓ Python Developer at BNP Paribas
+[2025-12-11 21:20:47]   ✓ HCL is Hiring Python Developer at HCLTech
+[2025-12-11 21:20:47]   ✓ Tcs Hiring ! Python Developer at Tata Consultancy Services
+[2025-12-11 21:20:47]   ✓ Python Developer at Tredence
+[2025-12-11 21:20:47]   ✓ Virtual Weekend Drive For Python Developer Role On 13th & 14th Dec. at Xoriant
+[2025-12-11 21:20:48]   ✓ Python Developer at Altimetrik
+[2025-12-11 21:20:48]   ✓ Python Developer at ewallsolutions
+[2025-12-11 21:20:48]   ✓ ReactJs & Python Developer at Photon
+[2025-12-11 21:20:48]   ✓ Python Developer at Surya Informatics
+[2025-12-11 21:20:50] 🔍 Naukri: Python Developer in Remote
+[2025-12-11 21:20:54]   ✓ Python Developer - Intern at MNJ Software
+[2025-12-11 21:20:54]   ✓ Python Developer at Jalopeura Technology
+[2025-12-11 21:20:54]   ✓ Software Engineer at Megalog Softwares
+[2025-12-11 21:20:55]   ✓ Python Developer at Soul Ai
+[2025-12-11 21:20:55]   ✓ Python Developer at Onelab Ventures
+[2025-12-11 21:20:55]   ✓ Software Engineer at Sadhana It Solutions
+[2025-12-11 21:20:55]   ✓ Software Engineer at Yipitdata
+[2025-12-11 21:20:56]   ✓ Python Developer at Dynamic Vishva
+[2025-12-11 21:20:56]   ✓ Software Engineer at Numerator
+[2025-12-11 21:20:56]   ✓ AI Software Engineer at Open Fabric
+[2025-12-11 21:20:58] 🔍 Naukri: Data Scientist in Bangalore
+[2025-12-11 21:21:02]   ✓ Data Scientist at Capgemini
+[2025-12-11 21:21:02]   ✓ Gen AI - Data Scientist at Cognizant
+[2025-12-11 21:21:02]   ✓ Data Scientist at Philips
+[2025-12-11 21:21:02]   ✓ Data Scientist at Fortune Global 500 MNC in Aviation
+[2025-12-11 21:21:02]   ✓ Data Scientist 4 at Oracle
+[2025-12-11 21:21:02]   ✓ Data Scientist-Artificial Intelligence at IBM
+[2025-12-11 21:21:02]   ✓ Data Scientist at Ericsson
+[2025-12-11 21:21:03]   ✓ Data Scientist - L3 at Wipro
+[2025-12-11 21:21:03]   ✓ Data Scientist at Genpact
+[2025-12-11 21:21:03]   ✓ Data Scientist - AI/ML, Snowflake, Tableau at Cisco
+[2025-12-11 21:21:05] 🔍 Naukri: Data Scientist in Mumbai
+[2025-12-11 21:21:09]   ✓ Data Scientist at eClerx
+[2025-12-11 21:21:09]   ✓ Data Scientist - Artificial Intelligence at IBM
+[2025-12-11 21:21:09]   ✓ Data Scientist at Morningstar
+[2025-12-11 21:21:09]   ✓ Data Scientist I at Affle
+[2025-12-11 21:21:09]   ✓ Data Scientist at Tata Consultancy Services
+[2025-12-11 21:21:09]   ✓ Data Scientist at Deloitte Consulting
+[2025-12-11 21:21:09]   ✓ Data Scientist (Fraud Detection Experience) at National Payments Corporation of India (NPCI)
+[2025-12-11 21:21:10]   ✓ Data Scientist - Machine Learning at Citiustech
+[2025-12-11 21:21:10]   ✓ Data Scientist at Mahindra Mahindra Limited.
+[2025-12-11 21:21:10]   ✓ Data Scientist (AI/ML) at General Mills
+[2025-12-11 21:21:12] 🔍 Naukri: Data Scientist in Hyderabad
+[2025-12-11 21:21:16]   ✓ Data Scientist at Capgemini
+[2025-12-11 21:21:16]   ✓ Gen AI - Data Scientist at Cognizant
+[2025-12-11 21:21:16]   ✓ Data Scientist at Infosys
+[2025-12-11 21:21:16]   ✓ Data Scientist-Artificial Intelligence at IBM
+[2025-12-11 21:21:16]   ✓ Data Scientist L3 at Wipro
+[2025-12-11 21:21:16]   ✓ Data Scientist at Genpact
+[2025-12-11 21:21:16]   ✓ Data Scientist at Tata Consultancy Services
+[2025-12-11 21:21:17]   ✓ Permanent Opportunity For Data Scientist @ Chennai/Bangalore/Pune/Hyd at Deloitte Consulting
+[2025-12-11 21:21:17]   ✓ Data Scientist at Sutherland Global Services Inc
+[2025-12-11 21:21:17]   ✓ Data Scientist at Pepsico
+[2025-12-11 21:21:19] 🔍 Naukri: Data Scientist in Chennai
+[2025-12-11 21:21:23]   ✓ Data Scientist at Capgemini
+[2025-12-11 21:21:23]   ✓ Permanent Opportunity For Data Scientist @ Chennai/Bangalore/Pune/Hyd at Deloitte Consulting
+[2025-12-11 21:21:23]   ✓ Data Scientist - Machine Learning at Citiustech
+[2025-12-11 21:21:23]   ✓ Data Scientist - TimeSeries at Tiger Analytics
+[2025-12-11 21:21:23]   ✓ Data Scientist III-1 at Walmart
+[2025-12-11 21:21:23]   ✓ Data Scientist/Data Engineer/Data Analyst at Indium Software
+[2025-12-11 21:21:23]   ✓ Data Scientist (Fraud Detection Experience) at National Payments Corporation of India (NPCI)
+[2025-12-11 21:21:24]   ✓ AIML Data Scientist at Cognizant
+[2025-12-11 21:21:24]   ✓ Data Scientist at Not Available
+[2025-12-11 21:21:24]   ✓ Data Scientist at Overture Rede
+[2025-12-11 21:21:26] 🔍 Naukri: Data Scientist in Remote
+[2025-12-11 21:21:30]   ✓ Data Scientist Trainee at Intechnative Systems & Services
+[2025-12-11 21:21:30]   ✓ Data Science Intern at TechKnowledgeHub.org
+[2025-12-11 21:21:30]   ✓ Data Analyst Intern at Hypersonix
+[2025-12-11 21:21:30]   ✓ Data Scientist at Aksvin Technologies
+[2025-12-11 21:21:30]   ✓ Data Scientist at Aisquare
+[2025-12-11 21:21:30]   ✓ Junior Scientist at Vericle
+[2025-12-11 21:21:30]   ✓ AI/ML Engineer at Onelab Ventures
+[2025-12-11 21:21:31]   ✓ Data Science Analyst at Numerator
+[2025-12-11 21:21:31]   ✓ Data Analyst at Digital Solution Tech
+[2025-12-11 21:21:31]   ✓ Data Scientist at Fingerprintjs
+[2025-12-11 21:21:33] 🔍 Naukri: Software Engineer in Bangalore
+[2025-12-11 21:21:36]   ✓ Software Engineer at ABB
+[2025-12-11 21:21:37]   ✓ Custom Software Engineer at Accenture
+[2025-12-11 21:21:37]   ✓ Software Engineer at Hewlett Packard Enterprise
+[2025-12-11 21:21:37]   ✓ Software Engineer at Altisource
+[2025-12-11 21:21:37]   ✓ Software Engineer at Alteryx
+[2025-12-11 21:21:37]   ✓ Software Engineer at Natwest Digitalx
+[2025-12-11 21:21:37]   ✓ Software Engineer at First Advantage
+[2025-12-11 21:21:38]   ✓ Software Engineer at Sterling Talent
+[2025-12-11 21:21:38]   ✓ Software Engineer at Altisource
+[2025-12-11 21:21:38]   ✓ Custom Software Engineer at Accenture
+[2025-12-11 21:21:40] 🔍 Naukri: Software Engineer in Mumbai
+[2025-12-11 21:21:44]   ✓ VP Software Engineer at Capgemini
+[2025-12-11 21:21:44]   ✓ Custom Software Engineer at Accenture
+[2025-12-11 21:21:44]   ✓ Software Engineer at Naukri
+[2025-12-11 21:21:44]   ✓ Software Engineer at Morningstar
+[2025-12-11 21:21:44]   ✓ Software Engineer at Assurant Automotive Warranty Solutions
+[2025-12-11 21:21:44]   ✓ Software Engineer at Godrej Koerber
+[2025-12-11 21:21:44]   ✓ Software Engineer at AAIT Health India Pvt. Ltd.
+[2025-12-11 21:21:44]   ✓ Custom Software Engineer at Accenture
+[2025-12-11 21:21:45]   ✓ Custom Software Engineer at Accenture
+[2025-12-11 21:21:45]   ✓ Custom Software Engineer at Accenture
+[2025-12-11 21:21:47] 🔍 Naukri: Software Engineer in Hyderabad
+[2025-12-11 21:21:50]   ✓ Custom Software Engineer at Accenture
+[2025-12-11 21:21:51]   ✓ Custom Software Engineer at Accenture
+[2025-12-11 21:21:51]   ✓ Custom Software Engineer at Accenture
+[2025-12-11 21:21:51]   ✓ Custom Software Engineer at Accenture
+[2025-12-11 21:21:51]   ✓ Custom Software Engineer at Accenture
+[2025-12-11 21:21:51]   ✓ Custom Software Engineer at Accenture
+[2025-12-11 21:21:51]   ✓ Custom Software Engineer at Accenture
+[2025-12-11 21:21:52]   ✓ Custom Software Engineer at Accenture
+[2025-12-11 21:21:52]   ✓ Custom Software Engineer at Accenture
+[2025-12-11 21:21:52]   ✓ Custom Software Engineer at Accenture
+[2025-12-11 21:21:54] 🔍 Naukri: Software Engineer in Chennai
+[2025-12-11 21:21:58]   ✓ Software Engineer at Cognizant
+[2025-12-11 21:21:58]   ✓ Custom Software Engineer at Accenture
+[2025-12-11 21:21:58]   ✓ Software Engineer at KLA
+[2025-12-11 21:21:58]   ✓ Software Engineer - SmallWorld at Tata Consultancy Services
+[2025-12-11 21:21:58]   ✓ Software Engineer Trainee | Walk-in | Male Candidates only at Soft Suave
+[2025-12-11 21:21:58]   ✓ Software Engineer at Svs Job Consulting Services
+[2025-12-11 21:21:58]   ✓ Software Engineer at NatWest Markets
+[2025-12-11 21:21:59]   ✓ Software Engineer at Natwest Digitalx
+[2025-12-11 21:21:59]   ✓ Software Engineer at Artech
+[2025-12-11 21:21:59]   ✓ Software Engineer at Aziro
+[2025-12-11 21:22:01] 🔍 Naukri: Software Engineer in Remote
+[2025-12-11 21:22:05]   ✓ Senior Software Engineer 1 , DevSecMLOps at Interview Kickstart
+[2025-12-11 21:22:05]   ✓ Associate Software Engineer (Integration team) at Groundtruth
+[2025-12-11 21:22:05]   ✓ Software Engineer at Numerator
+[2025-12-11 21:22:05]   ✓ Senior Software Engineer at Flexera Software
+[2025-12-11 21:22:05]   ✓ Assoc Software Engineer at Replicon
+[2025-12-11 21:22:05]   ✓ Software Engineers at Auctor Corporation
+[2025-12-11 21:22:05]   ✓ Software Engineer Associate at TechKnowledgeHub.org
+[2025-12-11 21:22:05]   ✓ Software Engineer at Megalog Softwares
+[2025-12-11 21:22:06]   ✓ Software Engineer at Sadhana It Solutions
+[2025-12-11 21:22:06]   ✓ Software Engineer at Yipitdata
+[2025-12-11 21:22:08] 🔍 Naukri: Machine Learning Engineer in Bangalore
+[2025-12-11 21:22:11]   ✓ Data Science/Machine Learning Engineer / Lead at S&P Global Market Intelligence
+[2025-12-11 21:22:12]   ✓ Machine Learning Engineer at Infosys
+[2025-12-11 21:22:12]   ✓ Machine Learning Engineer at Cisco
+[2025-12-11 21:22:12]   ✓ TCAD Machine Learning Engineer at Intel
+[2025-12-11 21:22:12]   ✓ Machine Learning Engineer at Tata Consultancy Services
+[2025-12-11 21:22:12]   ✓ Machine Learning Engineer - Application AI at SAP
+[2025-12-11 21:22:12]   ✓ Machine Learning Engineer 4 at Adobe
+[2025-12-11 21:22:12]   ✓ Machine Learning Compiler Engineer, Silicon at Google
+[2025-12-11 21:22:12]   ✓ Cloud Machine Learning LLM Serving Staff engineer at Qualcomm
+[2025-12-11 21:22:13]   ✓ Machine Learning Engineer / Applied Scientist, Search & AI at Apple
+[2025-12-11 21:22:15] 🔍 Naukri: Machine Learning Engineer in Mumbai
+[2025-12-11 21:22:21]   ✓ AI & Machine Learning Developer at Digiture
+[2025-12-11 21:22:21]   ✓ Opportunity For Data Scientist MLOps/AI professionals at Atos
+[2025-12-11 21:22:21]   ✓ Machine Learning Engineer at Luxoft
+[2025-12-11 21:22:22]   ✓ Machine Learning Engineer at Micro1
+[2025-12-11 21:22:22]   ✓ Data Scientist at Everestek Technosoft Solutions
+[2025-12-11 21:22:22]   ✓ Data Scientist at Crimson
+[2025-12-11 21:22:22]   ✓ Machine Learning Engineer (Mid-Level) at Aerobotics7
+[2025-12-11 21:22:22]   ✓ Data Scientist at Soul Ai
+[2025-12-11 21:22:22]   ✓ Machine Learning Engineer at Mhtechin
+[2025-12-11 21:22:22]   ✓ Gen AI - Data Scientist at Mondelez
+[2025-12-11 21:22:24] 🔍 Naukri: Machine Learning Engineer in Hyderabad
+[2025-12-11 21:22:28]   ✓ Data Scientist at Capgemini
+[2025-12-11 21:22:29]   ✓ Data Science/Machine Learning Engineer / Lead at S&P Global Market Intelligence
+[2025-12-11 21:22:29]   ✓ Gen AI - Data Scientist at Cognizant
+[2025-12-11 21:22:29]   ✓ Machine Learning Engineer at Infosys
+[2025-12-11 21:22:29]   ✓ Data Scientist-Artificial Intelligence at IBM
+[2025-12-11 21:22:29]   ✓ Data Scientist L3 at Wipro
+[2025-12-11 21:22:29]   ✓ Data Scientist at Genpact
+[2025-12-11 21:22:29]   ✓ Machine Learning Engineer at Tata Consultancy Services
+[2025-12-11 21:22:29]   ✓ Data Scientist at Pepsico
+[2025-12-11 21:22:30]   ✓ Staff AI/Machine Learning Engineer at Genesys
+[2025-12-11 21:22:32] 🔍 Naukri: Machine Learning Engineer in Chennai
+[2025-12-11 21:22:35]   ✓ Machine Learning Engineer at Capgemini
+[2025-12-11 21:22:36]   ✓ Data Scientist at Cognizant
+[2025-12-11 21:22:36]   ✓ Machine Learning Engineer at Infosys
+[2025-12-11 21:22:36]   ✓ Senior Machine Learning Engineer at Firstsource
+[2025-12-11 21:22:36]   ✓ GenAI Engineer/Lead at Tata Consultancy Services
+[2025-12-11 21:22:36]   ✓ Machine Learning Engineer at Sutherland
+[2025-12-11 21:22:36]   ✓ Machine Learning Engineer(MLops) at Tiger Analytics
+[2025-12-11 21:22:36]   ✓ Data Scientist at Saint Gobain
+[2025-12-11 21:22:36]   ✓ Lead Machine Learning Engineer at UPS Supply Chain Solutions (UPS SCS)
+[2025-12-11 21:22:37]   ✓ Gen AI/ ML Data Scientist at A Leading Analytics Firm
+[2025-12-11 21:22:39] 🔍 Naukri: Machine Learning Engineer in Remote
+[2025-12-11 21:22:42]   ✓ AI/ML Engineer at Simulationhub
+[2025-12-11 21:22:42]   ✓ ML Engineer at 123 Of Ai
+[2025-12-11 21:22:43]   ✓ Summer Intern-AI/ML at My Analytics School
+[2025-12-11 21:22:43]   ✓ AI/ML Engineer at Onelab Ventures
+[2025-12-11 21:22:43]   ✓ AI Engineer at Edureify
+[2025-12-11 21:22:43]   ✓ ML Engineer at Numerator
+[2025-12-11 21:22:43]   ✓ Software Engineer 1 , ML at Interview Kickstart
+[2025-12-11 21:22:43]   ✓ Data Scientist at Fingerprintjs
+[2025-12-11 21:22:44]   ✓ Machine Learning Engineer at Xzect
+[2025-12-11 21:22:44]   ✓ AI Engineer at Pulsepoint
+[2025-12-11 21:22:46] 
+🔍 PHASE 2: Checking Company Career Pages...
+[2025-12-11 21:22:46] 🔍 TCS: Checking career page...
+[2025-12-11 21:22:52]   ⚠️  No standard job cards found on TCS
+[2025-12-11 21:22:55] 🔍 TCS: Checking career page...
+[2025-12-11 21:23:09]   ⚠️  No standard job cards found on TCS
+[2025-12-11 21:23:12] 🔍 TCS: Checking career page...
+[2025-12-11 21:23:15]   ⚠️  No standard job cards found on TCS
+[2025-12-11 21:23:18] 🔍 TCS: Checking career page...
+[2025-12-11 21:23:18] ❌ Error scraping TCS: Page.goto: Target page, context or browser has been closed
+[2025-12-11 21:23:21] 🔍 Infosys: Checking career page...
+[2025-12-11 21:23:21] ❌ Error scraping Infosys: Page.goto: Target page, context or browser has been closed
+[2025-12-11 21:23:24] 🔍 Infosys: Checking career page...
+[2025-12-11 21:23:24] ❌ Error scraping Infosys: Page.goto: Target page, context or browser has been closed
+[2025-12-11 21:23:27] 🔍 Infosys: Checking career page...
+[2025-12-11 21:23:27] ❌ Error scraping Infosys: Page.goto: Target page, context or browser has been closed
+[2025-12-11 21:46:23] ================================================================================
+[2025-12-11 21:46:23] ╔═══════════════════════════════════════════════════════════════════════════════╗
+[2025-12-11 21:46:23] ║           🤖 ENHANCED AI JOB APPLICATION BOT - MULTI COMPANY                 ║
+[2025-12-11 21:46:23] ║           👨‍💻 Developed by: Vignesh Yadala                                    ║
+[2025-12-11 21:46:23] ║           📅 Version: December 2025                                           ║
+[2025-12-11 21:46:23] ║           🚀 Powered by Google Gemini AI                                      ║
+[2025-12-11 21:46:23] ╚═══════════════════════════════════════════════════════════════════════════════╝
+[2025-12-11 21:46:23] ================================================================================
+[2025-12-11 21:46:23] 🎯 Target Roles: Python Developer, Data Scientist, Software Engineer, Machine Learning Engineer
+[2025-12-11 21:46:23] 📍 Target Locations: Bangalore, Mumbai, Hyderabad, Chennai, Remote
+[2025-12-11 21:46:23] 🏢 Companies: Naukri + 14 major tech companies
+[2025-12-11 21:46:23] 📊 Min Match Score: 75%
+[2025-12-11 21:46:23] 📝 Max Applications: 10
+[2025-12-11 21:46:23] ================================================================================

@@ -1,0 +1,18 @@
+{
+    "companies": [
+        "naukri"
+    ],
+    "roles": [
+        "Python Developer",
+        "Software Engineer",
+        "Data Scientist"
+    ],
+    "locations": [
+        "Bangalore",
+        "Mumbai",
+        "Chennai",
+        "Hyderabad"
+    ],
+    "min_experience": "0",
+    "max_experience": "5"
+}

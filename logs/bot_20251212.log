@@ -1,0 +1,155 @@
+[2025-12-12 19:10:44] ================================================================================
+[2025-12-12 19:10:44] ╔═══════════════════════════════════════════════════════════════════════════════╗
+[2025-12-12 19:10:44] ║           🤖 ENHANCED AI JOB APPLICATION BOT - MULTI COMPANY                 ║
+[2025-12-12 19:10:44] ║           👨‍💻 Developed by: Vignesh Yadala                                    ║
+[2025-12-12 19:10:44] ║           📅 Version: December 2025                                           ║
+[2025-12-12 19:10:44] ║           🚀 Powered by Google Gemini AI                                      ║
+[2025-12-12 19:10:44] ╚═══════════════════════════════════════════════════════════════════════════════╝
+[2025-12-12 19:10:44] ================================================================================
+[2025-12-12 19:10:44] 🎯 Target Roles: Python Developer, Data Scientist, Software Engineer, Machine Learning Engineer
+[2025-12-12 19:10:44] 📍 Target Locations: Bangalore, Mumbai, Hyderabad, Chennai, Remote
+[2025-12-12 19:10:44] 📊 Min Match Score: 75%
+[2025-12-12 19:10:44] 📝 Max Applications: 10
+[2025-12-12 19:10:44] ================================================================================
+[2025-12-12 19:24:32] ================================================================================
+[2025-12-12 19:34:56] ================================================================================
+[2025-12-12 19:35:00] ╔═══════════════════════════════════════════════════════════════════════════════╗
+[2025-12-12 19:35:00] ║           🤖 ENHANCED AI JOB APPLICATION BOT - MULTI COMPANY                 ║
+[2025-12-12 19:35:00] ║           👨‍💻 Developed by: Vignesh Yadala                                    ║
+[2025-12-12 19:35:00] ║           📅 Version: December 2025                                           ║
+[2025-12-12 19:35:00] ║           🚀 Powered by Google Gemini AI                                      ║
+[2025-12-12 19:35:00] ╚═══════════════════════════════════════════════════════════════════════════════╝
+[2025-12-12 19:35:00] ================================================================================
+[2025-12-12 19:35:00] 🎯 Target Roles: Python Developer, Data Scientist, Software Engineer, Machine Learning Engineer
+[2025-12-12 19:35:00] 📍 Target Locations: Bangalore, Mumbai, Hyderabad, Chennai, Remote
+[2025-12-12 19:35:00] 📊 Min Match Score: 75%
+[2025-12-12 19:35:00] 📝 Max Applications: 10
+[2025-12-12 19:35:00] ================================================================================
+[2025-12-12 19:36:13] 🔐 Logging into Naukri.com...
+[2025-12-12 19:36:21] ⚠️  Could not auto-fill email. Please login manually.
+[2025-12-12 19:36:21] ⏸️  Press ENTER after logging in...
+[2025-12-12 19:37:19] 
+🔍 PHASE 1: Scraping Naukri.com...
+[2025-12-12 19:37:19] 🔍 Naukri: Python Developer in Bangalore
+[2025-12-12 19:37:23]   ✓ Python Developer at Appzlogic
+[2025-12-12 19:37:23]   ✓ Python Developer at Cybrosys
+[2025-12-12 19:37:24]   ✓ Python Developer at Huntertech Ventures
+[2025-12-12 19:37:24]   ✓ Python Software Developer at Vibry Business Solutions
+[2025-12-12 19:37:25]   ✓ Python Developer at Billions United
+[2025-12-12 19:37:25]   ✓ Python developer at Wadhwani Foundation
+[2025-12-12 19:37:25]   ✓ Python Developer at Storilabs System
+[2025-12-12 19:37:25]   ✓ Python Developer at Conneqt
+[2025-12-12 19:37:25]   ✓ Python Developer at 47billion
+[2025-12-12 19:37:25]   ✓ Python/Web Developer at Qantom
+[2025-12-12 19:37:27] 🔍 Naukri: Python Developer in Mumbai
+[2025-12-12 19:37:31]   ✓ Python Developer at Appzlogic
+[2025-12-12 19:37:31]   ✓ Python Developer at Lumina Datamatics
+[2025-12-12 19:37:32]   ✓ Python Developer at Reapmind Innovations
+[2025-12-12 19:37:32]   ✓ Internship- Python Developer at Viga Entertainment Technology
+[2025-12-12 19:37:32]   ✓ Python Developer Web Crawling (SDE) at Sciative Solutions
+[2025-12-12 19:37:32]   ✓ Software Engineer at Salesasaseva
+[2025-12-12 19:37:32]   ✓ Python Engineer at Scalereal Technologies
+[2025-12-12 19:37:32]   ✓ Developer at Kiebot
+[2025-12-12 19:37:32]   ✓ AI Software Engineer at Godigi Infotech
+[2025-12-12 19:37:33]   ✓ SW Engineer IV at NCR Atleos
+[2025-12-12 19:37:35] 🔍 Naukri: Python Developer in Hyderabad
+[2025-12-12 19:37:39]   ✓ Python Developer at Appzlogic
+[2025-12-12 19:37:39]   ✓ Python Developer at Jobsmill
+[2025-12-12 19:37:39]   ✓ Python Software Developer at Nextgenpathz
+[2025-12-12 19:37:39]   ✓ Python Software Developer at Raynx Systems
+[2025-12-12 19:37:39]   ✓ Python Software Developer at Vibry Business Solutions
+[2025-12-12 19:37:39]   ✓ Python Developer at Clerro Technologies
+[2025-12-12 19:37:39]   ✓ Python Developer at Virtue Software Technologies
+[2025-12-12 19:37:39]   ✓ Python Developer at Indium Software
+[2025-12-12 19:37:40]   ✓ Python Developer at Abbineni Business Management
+[2025-12-12 19:37:40]   ✓ Python Developer at Navariti Innovation
+[2025-12-12 19:37:42] 🔍 Naukri: Python Developer in Chennai
+[2025-12-12 19:37:45]   ✓ Python Developer at Appzlogic
+[2025-12-12 19:37:46]   ✓ Python Developer at DLK Technologies
+[2025-12-12 19:37:46]   ✓ Python Developer at Surya Informatics
+[2025-12-12 19:37:46]   ✓ Python Developer at ewallsolutions
+[2025-12-12 19:37:46]   ✓ Python Developer 15 Positions at Added Value Technologies
+[2025-12-12 19:37:46]   ✓ Python Web Developer at Uandwe Technologies
+[2025-12-12 19:37:46]   ✓ Python and JavaScript Developer at Sutherland Global Services Inc
+[2025-12-12 19:37:47]   ✓ Python Software Developer at ti Steps
+[2025-12-12 19:37:47]   ✓ Python Software Developer at ti Steps
+[2025-12-12 19:37:47]   ✓ Python Software Developer at ti Steps
+[2025-12-12 19:37:49] 🔍 Naukri: Python Developer in Remote
+[2025-12-12 19:37:54]   ✓ Python Developer at Vinnovate Technologies
+[2025-12-12 19:37:54]   ✓ Python Developer at Jalopeura Technology
+[2025-12-12 19:37:54]   ✓ Software Engineer at Numerator
+[2025-12-12 19:37:54]   ✓ Python Application Developer at SNS System
+[2025-12-12 19:37:54]   ✓ Junior AI Solutions Developer SeerTech Systems at Seertech System
+[2025-12-12 19:37:54]   ✓ NLP Developer at Busigence Technologies
+[2025-12-12 19:37:54]   ✓ Kafka Developer at Busigence Technologies
+[2025-12-12 19:37:55]   ✓ NLP Developer at Busigence Technologies
+[2025-12-12 19:37:55]   ✓ AI Developer at SNS System
+[2025-12-12 19:37:55]   ✓ Senior Software Engineer (Back-end, SaaS, Python) at Iterative Knowledge Solutions
+[2025-12-12 19:37:57] 🔍 Naukri: Data Scientist in Bangalore
+[2025-12-12 19:38:09]   ✓ Data Scientist at Han Digital Solution
+[2025-12-12 19:38:09]   ✓ Data Scientist I at 360DigiTMG
+[2025-12-12 19:38:09]   ✓ Data Scientist, I at Antuit
+[2025-12-12 19:38:09]   ✓ Data Scientist at Data Collection Infotech
+[2025-12-12 19:38:09]   ✓ Data Scientist at ti Steps
+[2025-12-12 19:38:09]   ✓ Data Scientist at ti Steps
+[2025-12-12 19:38:10]   ✓ Data Scientist at Akaike Technologies
+[2025-12-12 19:38:10]   ✓ Data Scientist at ti Steps
+[2025-12-12 19:38:10]   ✓ Data Scientist at ti Steps
+[2025-12-12 19:38:10]   ✓ Data Scientist at ti Steps
+[2025-12-12 19:38:12] 🔍 Naukri: Data Scientist in Mumbai
+[2025-12-12 19:38:24]   ✓ Principal Data Scientist / Senior Data Scientist / Data Scientist at Benovymed Healthcare Private Ltd
+[2025-12-12 19:38:24]   ✓ Principal Data Scientist/Senior Data Scientist/Data Scientist - NLP/ML at Benovymed Healthcare Private Limited
+[2025-12-12 19:38:24]   ✓ Principal Data Scientist / Sr. Data Scientist / Data Scientist - NLP at Benovymed Healthcare Private Ltd
+[2025-12-12 19:38:24]   ✓ Data Scientist Malaysia/ India recruiting for80 Clients at Monde Corporation (MNC)
+[2025-12-12 19:38:24]   ✓ Data Analyst /Data Scientist-PAN India at SAP Servers Tech
+[2025-12-12 19:38:25]   ✓ Spark Developer at Appzlogic
+[2025-12-12 19:38:25]   ✓ Biotech Scientist at Mabbit Communications
+[2025-12-12 19:38:25]   ✓ Data Annotation- Dermatalogy at Wadhwani Ai
+[2025-12-12 19:38:25]   ✓ Devops Engineer at Exponentia Datalabs
+[2025-12-12 19:38:25]   ✓ Clinical Trial Psych Rater Gujarati Speaking at Iqvia Biotech
+[2025-12-12 19:38:27] 🔍 Naukri: Data Scientist in Hyderabad
+[2025-12-12 19:38:31]   ✓ Data Scientist at Maddisoft Solutions
+[2025-12-12 19:38:31]   ✓ Data Scientist at Hbic Solutions
+[2025-12-12 19:38:32]   ✓ Data Scientist at Syngenta
+[2025-12-12 19:38:32]   ✓ Data Scientist at ti Steps
+[2025-12-12 19:38:32]   ✓ Data Scientist at ti Steps
+[2025-12-12 19:38:32]   ✓ Data Scientist at ti Steps
+[2025-12-12 19:38:32]   ✓ Data Scientist at ti Steps
+[2025-12-12 19:38:32]   ✓ Data Scientist at ti Steps
+[2025-12-12 19:38:32]   ✓ Data Scientist - GenAI & LLMs at Acess Meditech
+[2025-12-12 19:38:32]   ✓ Principal Data Scientist/Senior Data Scientist/Data Scientist - NLP at Benovymed Healthcare Private Limited
+[2025-12-12 19:38:34] 🔍 Naukri: Data Scientist in Chennai
+[2025-12-12 19:38:38]   ✓ Data Scientist at ti Steps
+[2025-12-12 19:38:39]   ✓ Data Scientist at ti Steps
+[2025-12-12 19:38:39]   ✓ Data Scientist at ti Steps
+[2025-12-12 19:38:39]   ✓ Data Scientist at ti Steps
+[2025-12-12 19:38:39]   ✓ Data Scientist at ti Steps
+[2025-12-12 19:38:39]   ✓ Principal Data Scientist/Senior Data Scientist/Data Scientist at Benovymed Healthcare Private Limited
+[2025-12-12 19:38:39]   ✓ Principal Data Scientist/Senior Data Scientist/Data Scientist - NLP at Benovymed Healthcare Private Limited
+[2025-12-12 19:38:39]   ✓ Data Scientist at ti Steps
+[2025-12-12 19:38:40]   ✓ Data Engineer / Analyst at We Shine Academy
+[2025-12-12 19:38:40]   ✓ Engineers | AI/ML, Cloud, DevOps, Python | GeakMinds | Chennai at Geak Minds
+[2025-12-12 19:38:42] 🔍 Naukri: Data Scientist in Remote
+[2025-12-12 19:38:46]   ✓ Data Scientist Trainee at Intechnative Systems & Services
+[2025-12-12 19:38:46]   ✓ DATA SCIENTIST - INTERN at Matsci Ai
+[2025-12-12 19:38:46]   ✓ AI/ML Engineer at Onelab Ventures
+[2025-12-12 19:38:46]   ✓ AI Developer at SNS System
+[2025-12-12 19:38:46]   ✓ Senior Product Designer at Speechify
+[2025-12-12 19:38:46]   ✓ Data Science Intern at TechKnowledgeHub.org
+[2025-12-12 19:38:46]   ✓ Python Application Developer at SNS System
+[2025-12-12 19:38:47]   ✓ Junior Scientist at Vericle
+[2025-12-12 19:38:47]   ✓ Deep Learning Engineer at Seaportai
+[2025-12-12 19:38:47]   ✓ Backend engineer at Aampe
+[2025-12-12 19:38:49] 🔍 Naukri: Software Engineer in Bangalore
+[2025-12-12 19:38:53]   ✓ Software Engineer at Scribble Data
+[2025-12-12 19:38:53]   ✓ Software Engineer, developer / Programmer, 2025 graduate Can also appl at Creative Hands HR
+[2025-12-12 19:38:53]   ✓ Software Engineer at Salesasaseva
+[2025-12-12 19:38:54]   ✓ Software Engineer at GIST
+[2025-12-12 19:38:54]   ✓ Software Engineer at Confidential
+[2025-12-12 19:38:54]   ✓ AI Software Engineer at Godigi Infotech
+[2025-12-12 19:38:54]   ✓ Software Engineer, University Graduate, 2026 at Google
+[2025-12-12 19:38:54]   ✓ Software Engineer - Data Pipeline at Mediamath
+[2025-12-12 19:38:54]   ✓ Software Engineer at Persolkelly India
+[2025-12-12 19:38:54]   ✓ Software Engineer, PhD, Early Career, Campus, 2025 Start at Google
+[2025-12-12 19:38:56] 🔍 Naukri: Software Engineer in Mumbai
+[2025-12-12 19:42:04] ================================================================================

@@ -1,0 +1,1881 @@
+[2025-12-08 21:56:11] ================================================================================
+[2025-12-08 21:56:11] 🤖 ADVANCED AI JOB APPLICATION BOT STARTED
+[2025-12-08 21:56:11] ================================================================================
+[2025-12-08 21:56:11] 📧 Email: vignesh.yadala@gmail.com
+[2025-12-08 21:56:11] 🎯 Target Roles: Python Developer, Data Scientist, Software Engineer, Machine Learning Engineer
+[2025-12-08 21:56:11] 📍 Target Locations: Bangalore, Mumbai, Hyderabad, Chennai, Remote
+[2025-12-08 21:56:11] 📊 Min Match Score: 75%
+[2025-12-08 21:56:11] 📝 Max Applications Today: 10
+[2025-12-08 21:56:11] ================================================================================
+[2025-12-08 21:56:15] 🔐 Logging into Naukri.com...
+[2025-12-08 21:56:23] ⚠️  Login may have failed - please check credentials
+[2025-12-08 21:56:23] 🔍 Searching: Python Developer in Bangalore
+[2025-12-08 21:56:27] 📋 Found 20 jobs
+[2025-12-08 21:56:29]   ✓ Extracted: Python Developer at Infosys
+[2025-12-08 21:56:32]   ✓ Extracted: Python Developer at IBM
+[2025-12-08 21:56:36]   ✓ Extracted: Developer - Python at Wipro
+[2025-12-08 21:56:38]   ✓ Extracted: Python Software Developer at HCLTech
+[2025-12-08 21:56:42]   ✓ Extracted: Python Software Developer at Tata Consultancy Services
+[2025-12-08 21:56:46]   ✓ Extracted: Python Developer at Mercedes Benz
+[2025-12-08 21:56:51]   ✓ Extracted: Python Developer at Quantum Leap Consulting
+[2025-12-08 21:56:53]   ✓ Extracted: Python Developer at HARMAN
+[2025-12-08 21:56:57]   ✓ Extracted: Python Software Developer at Xoriant
+[2025-12-08 21:57:00]   ✓ Extracted: Python Developer at Altimetrik
+[2025-12-08 21:57:04]   ✓ Extracted: Python Developer at Persistent
+[2025-12-08 21:57:07]   ✓ Extracted: Python Software Developer at Legato
+[2025-12-08 21:57:12]   ✓ Extracted: Python Developer at Cybrosys
+[2025-12-08 21:57:15]   ✓ Extracted: Python Developer (Mid-Level) at Soul Ai
+[2025-12-08 21:57:15]   ⚠️  Error extracting job 14: ElementHandle.query_selector: Target page, context or browser has been closed
+[2025-12-08 21:57:17] 🔍 Searching: Python Developer in Mumbai
+[2025-12-08 21:57:17] ❌ Error scraping Python Developer in Mumbai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 21:57:19] 🔍 Searching: Python Developer in Hyderabad
+[2025-12-08 21:57:19] ❌ Error scraping Python Developer in Hyderabad: Page.goto: Target page, context or browser has been closed
+[2025-12-08 21:57:21] 🔍 Searching: Python Developer in Chennai
+[2025-12-08 21:57:21] ❌ Error scraping Python Developer in Chennai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 21:57:23] 🔍 Searching: Python Developer in Remote
+[2025-12-08 21:57:23] ❌ Error scraping Python Developer in Remote: Page.goto: Target page, context or browser has been closed
+[2025-12-08 21:57:25] 🔍 Searching: Data Scientist in Bangalore
+[2025-12-08 21:57:25] ❌ Error scraping Data Scientist in Bangalore: Page.goto: Target page, context or browser has been closed
+[2025-12-08 21:57:27] 🔍 Searching: Data Scientist in Mumbai
+[2025-12-08 21:57:27] ❌ Error scraping Data Scientist in Mumbai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 21:57:29] 🔍 Searching: Data Scientist in Hyderabad
+[2025-12-08 21:57:29] ❌ Error scraping Data Scientist in Hyderabad: Page.goto: Target page, context or browser has been closed
+[2025-12-08 21:57:31] 🔍 Searching: Data Scientist in Chennai
+[2025-12-08 21:57:31] ❌ Error scraping Data Scientist in Chennai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 21:57:33] 🔍 Searching: Data Scientist in Remote
+[2025-12-08 21:57:33] ❌ Error scraping Data Scientist in Remote: Page.goto: Target page, context or browser has been closed
+[2025-12-08 21:57:35] 🔍 Searching: Software Engineer in Bangalore
+[2025-12-08 21:57:35] ❌ Error scraping Software Engineer in Bangalore: Page.goto: Target page, context or browser has been closed
+[2025-12-08 21:57:37] 🔍 Searching: Software Engineer in Mumbai
+[2025-12-08 21:57:37] ❌ Error scraping Software Engineer in Mumbai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 21:57:39] 🔍 Searching: Software Engineer in Hyderabad
+[2025-12-08 21:57:39] ❌ Error scraping Software Engineer in Hyderabad: Page.goto: Target page, context or browser has been closed
+[2025-12-08 21:57:41] 🔍 Searching: Software Engineer in Chennai
+[2025-12-08 21:57:41] ❌ Error scraping Software Engineer in Chennai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 21:57:43] 🔍 Searching: Software Engineer in Remote
+[2025-12-08 21:57:43] ❌ Error scraping Software Engineer in Remote: Page.goto: Target page, context or browser has been closed
+[2025-12-08 21:57:45] 🔍 Searching: Machine Learning Engineer in Bangalore
+[2025-12-08 21:57:45] ❌ Error scraping Machine Learning Engineer in Bangalore: Page.goto: Target page, context or browser has been closed
+[2025-12-08 21:57:47] 🔍 Searching: Machine Learning Engineer in Mumbai
+[2025-12-08 21:57:47] ❌ Error scraping Machine Learning Engineer in Mumbai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 21:57:49] 🔍 Searching: Machine Learning Engineer in Hyderabad
+[2025-12-08 21:57:49] ❌ Error scraping Machine Learning Engineer in Hyderabad: Page.goto: Target page, context or browser has been closed
+[2025-12-08 21:57:51] 🔍 Searching: Machine Learning Engineer in Chennai
+[2025-12-08 21:57:51] ❌ Error scraping Machine Learning Engineer in Chennai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 21:57:53] 🔍 Searching: Machine Learning Engineer in Remote
+[2025-12-08 21:57:53] ❌ Error scraping Machine Learning Engineer in Remote: Page.goto: Target page, context or browser has been closed
+[2025-12-08 21:57:55] 
+📊 Total jobs found: 14
+[2025-12-08 21:57:55] ================================================================================
+[2025-12-08 21:57:55] 
+[1/14] Analyzing: Python Developer at Infosys
+[2025-12-08 21:57:56] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 21:57:56]   📊 Match Score: 0%
+[2025-12-08 21:57:56]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 21:57:56]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 21:57:57] 
+[2/14] Analyzing: Python Developer at IBM
+[2025-12-08 21:57:57] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 21:57:57]   📊 Match Score: 0%
+[2025-12-08 21:57:57]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 21:57:57]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 21:57:58] 
+[3/14] Analyzing: Developer - Python at Wipro
+[2025-12-08 21:57:58] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 21:57:58]   📊 Match Score: 0%
+[2025-12-08 21:57:58]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 21:57:58]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 21:57:59] 
+[4/14] Analyzing: Python Software Developer at HCLTech
+[2025-12-08 21:57:59] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 21:57:59]   📊 Match Score: 0%
+[2025-12-08 21:57:59]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 21:57:59]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 21:58:00] 
+[5/14] Analyzing: Python Software Developer at Tata Consultancy Services
+[2025-12-08 21:58:00] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 21:58:00]   📊 Match Score: 0%
+[2025-12-08 21:58:00]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 21:58:01]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 21:58:02] 
+[6/14] Analyzing: Python Developer at Mercedes Benz
+[2025-12-08 21:58:02] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 21:58:02]   📊 Match Score: 0%
+[2025-12-08 21:58:02]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 21:58:02]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 21:58:03] 
+[7/14] Analyzing: Python Developer at Quantum Leap Consulting
+[2025-12-08 21:58:03] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 21:58:03]   📊 Match Score: 0%
+[2025-12-08 21:58:03]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 21:58:03]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 21:58:04] 
+[8/14] Analyzing: Python Developer at HARMAN
+[2025-12-08 21:58:05] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 21:58:05]   📊 Match Score: 0%
+[2025-12-08 21:58:05]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 21:58:05]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 21:58:06] 
+[9/14] Analyzing: Python Software Developer at Xoriant
+[2025-12-08 21:58:06] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 21:58:06]   📊 Match Score: 0%
+[2025-12-08 21:58:06]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 21:58:06]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 21:58:07] 
+[10/14] Analyzing: Python Developer at Altimetrik
+[2025-12-08 21:58:08] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 21:58:08]   📊 Match Score: 0%
+[2025-12-08 21:58:08]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 21:58:08]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 21:58:09] 
+[11/14] Analyzing: Python Developer at Persistent
+[2025-12-08 21:58:09] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 21:58:09]   📊 Match Score: 0%
+[2025-12-08 21:58:09]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 21:58:09]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 21:58:10] 
+[12/14] Analyzing: Python Software Developer at Legato
+[2025-12-08 21:58:10] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 21:58:10]   📊 Match Score: 0%
+[2025-12-08 21:58:10]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 21:58:10]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 21:58:11] 
+[13/14] Analyzing: Python Developer at Cybrosys
+[2025-12-08 21:58:11] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 21:58:11]   📊 Match Score: 0%
+[2025-12-08 21:58:11]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 21:58:11]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 21:58:12] 
+[14/14] Analyzing: Python Developer (Mid-Level) at Soul Ai
+[2025-12-08 21:58:16] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 21:58:16]   📊 Match Score: 0%
+[2025-12-08 21:58:16]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 21:58:16]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 21:58:17] 💾 Results saved to: data\job_results_20251208_215817.csv
+[2025-12-08 21:58:17] 
+================================================================================
+[2025-12-08 21:58:17] ✅ BOT COMPLETED!
+[2025-12-08 21:58:17] 📊 Total Analyzed: 14
+[2025-12-08 21:58:17] ✅ Applications Sent: 0
+[2025-12-08 21:58:17] 📈 Average Match Score: 0.0%
+[2025-12-08 21:58:17] ================================================================================
+[2025-12-08 22:03:36] ================================================================================
+[2025-12-08 22:03:36] 🤖 ADVANCED AI JOB APPLICATION BOT STARTED
+[2025-12-08 22:03:36] ================================================================================
+[2025-12-08 22:03:36] 📧 Email: vignesh.yadala@gmail.com
+[2025-12-08 22:03:36] 🎯 Target Roles: Python Developer, Data Scientist, Software Engineer, Machine Learning Engineer
+[2025-12-08 22:03:36] 📍 Target Locations: Bangalore, Mumbai, Hyderabad, Chennai, Remote
+[2025-12-08 22:03:36] 📊 Min Match Score: 75%
+[2025-12-08 22:03:36] 📝 Max Applications Today: 10
+[2025-12-08 22:03:36] ================================================================================
+[2025-12-08 22:17:22] ================================================================================
+[2025-12-08 22:17:22] 🤖 ADVANCED AI JOB APPLICATION BOT STARTED
+[2025-12-08 22:17:22] ================================================================================
+[2025-12-08 22:17:22] 📧 Email: vignesh.yadala@gmail.com
+[2025-12-08 22:17:22] 🎯 Target Roles: Python Developer, Data Scientist, Software Engineer, Machine Learning Engineer
+[2025-12-08 22:17:22] 📍 Target Locations: Bangalore, Mumbai, Hyderabad, Chennai, Remote
+[2025-12-08 22:17:22] 📊 Min Match Score: 75%
+[2025-12-08 22:17:22] 📝 Max Applications Today: 10
+[2025-12-08 22:17:22] ================================================================================
+[2025-12-08 22:17:25] 🔐 Logging into Naukri.com...
+[2025-12-08 22:17:35] ❌ Login error: Page.fill: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("input[type='text']")
+
+[2025-12-08 22:17:35] ❌ Failed to login. Exiting.
+[2025-12-08 22:19:36] ================================================================================
+[2025-12-08 22:19:36] 🤖 ADVANCED AI JOB APPLICATION BOT STARTED
+[2025-12-08 22:19:36] ================================================================================
+[2025-12-08 22:19:36] 📧 Email: vignesh.yadala@gmail.com
+[2025-12-08 22:19:36] 🎯 Target Roles: Python Developer, Data Scientist, Software Engineer, Machine Learning Engineer
+[2025-12-08 22:19:36] 📍 Target Locations: Bangalore, Mumbai, Hyderabad, Chennai, Remote
+[2025-12-08 22:19:36] 📊 Min Match Score: 75%
+[2025-12-08 22:19:36] 📝 Max Applications Today: 10
+[2025-12-08 22:19:36] ================================================================================
+[2025-12-08 22:19:38] 🔐 Logging into Naukri.com...
+[2025-12-08 22:19:47] ⚠️  Could not find email field. Please login manually in the browser window.
+[2025-12-08 22:19:47] ⏸️  Press ENTER after you've logged in manually...
+[2025-12-08 22:22:33] 🔍 Searching: Python Developer in Bangalore
+[2025-12-08 22:22:33] ❌ Error scraping Python Developer in Bangalore: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:22:35] 🔍 Searching: Python Developer in Mumbai
+[2025-12-08 22:22:35] ❌ Error scraping Python Developer in Mumbai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:22:37] 🔍 Searching: Python Developer in Hyderabad
+[2025-12-08 22:22:37] ❌ Error scraping Python Developer in Hyderabad: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:22:39] 🔍 Searching: Python Developer in Chennai
+[2025-12-08 22:22:39] ❌ Error scraping Python Developer in Chennai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:22:41] 🔍 Searching: Python Developer in Remote
+[2025-12-08 22:22:41] ❌ Error scraping Python Developer in Remote: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:22:43] 🔍 Searching: Data Scientist in Bangalore
+[2025-12-08 22:22:43] ❌ Error scraping Data Scientist in Bangalore: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:22:45] 🔍 Searching: Data Scientist in Mumbai
+[2025-12-08 22:22:45] ❌ Error scraping Data Scientist in Mumbai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:22:47] 🔍 Searching: Data Scientist in Hyderabad
+[2025-12-08 22:22:47] ❌ Error scraping Data Scientist in Hyderabad: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:22:49] 🔍 Searching: Data Scientist in Chennai
+[2025-12-08 22:22:49] ❌ Error scraping Data Scientist in Chennai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:22:51] 🔍 Searching: Data Scientist in Remote
+[2025-12-08 22:22:51] ❌ Error scraping Data Scientist in Remote: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:22:53] 🔍 Searching: Software Engineer in Bangalore
+[2025-12-08 22:22:53] ❌ Error scraping Software Engineer in Bangalore: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:22:55] 🔍 Searching: Software Engineer in Mumbai
+[2025-12-08 22:22:55] ❌ Error scraping Software Engineer in Mumbai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:22:57] 🔍 Searching: Software Engineer in Hyderabad
+[2025-12-08 22:22:57] ❌ Error scraping Software Engineer in Hyderabad: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:22:59] 🔍 Searching: Software Engineer in Chennai
+[2025-12-08 22:22:59] ❌ Error scraping Software Engineer in Chennai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:23:01] 🔍 Searching: Software Engineer in Remote
+[2025-12-08 22:23:01] ❌ Error scraping Software Engineer in Remote: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:23:03] 🔍 Searching: Machine Learning Engineer in Bangalore
+[2025-12-08 22:23:03] ❌ Error scraping Machine Learning Engineer in Bangalore: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:23:05] 🔍 Searching: Machine Learning Engineer in Mumbai
+[2025-12-08 22:23:05] ❌ Error scraping Machine Learning Engineer in Mumbai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:23:07] 🔍 Searching: Machine Learning Engineer in Hyderabad
+[2025-12-08 22:23:07] ❌ Error scraping Machine Learning Engineer in Hyderabad: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:23:09] 🔍 Searching: Machine Learning Engineer in Chennai
+[2025-12-08 22:23:09] ❌ Error scraping Machine Learning Engineer in Chennai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:23:11] 🔍 Searching: Machine Learning Engineer in Remote
+[2025-12-08 22:23:11] ❌ Error scraping Machine Learning Engineer in Remote: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:23:13] 
+📊 Total jobs found: 0
+[2025-12-08 22:23:13] ================================================================================
+[2025-12-08 22:23:13] 
+================================================================================
+[2025-12-08 22:23:13] ✅ BOT COMPLETED!
+[2025-12-08 22:23:13] 📊 Total Analyzed: 0
+[2025-12-08 22:23:13] ✅ Applications Sent: 0
+[2025-12-08 22:23:13] ❌ Fatal error: division by zero
+[2025-12-08 22:24:20] ================================================================================
+[2025-12-08 22:24:20] 🤖 ADVANCED AI JOB APPLICATION BOT STARTED
+[2025-12-08 22:24:20] ================================================================================
+[2025-12-08 22:24:20] 📧 Email: vignesh.yadala@gmail.com
+[2025-12-08 22:24:20] 🎯 Target Roles: Python Developer, Data Scientist, Software Engineer, Machine Learning Engineer
+[2025-12-08 22:24:20] 📍 Target Locations: Bangalore, Mumbai, Hyderabad, Chennai, Remote
+[2025-12-08 22:24:20] 📊 Min Match Score: 75%
+[2025-12-08 22:24:20] 📝 Max Applications Today: 10
+[2025-12-08 22:24:20] ================================================================================
+[2025-12-08 22:24:22] 🔐 Logging into Naukri.com...
+[2025-12-08 22:24:26] ⚠️  Could not find email field. Please login manually in the browser window.
+[2025-12-08 22:24:26] ⏸️  Press ENTER after you've logged in manually...
+[2025-12-08 22:26:51] 🔍 Searching: Python Developer in Bangalore
+[2025-12-08 22:26:51] ❌ Error scraping Python Developer in Bangalore: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:26:53] 🔍 Searching: Python Developer in Mumbai
+[2025-12-08 22:26:53] ❌ Error scraping Python Developer in Mumbai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:26:55] 🔍 Searching: Python Developer in Hyderabad
+[2025-12-08 22:26:55] ❌ Error scraping Python Developer in Hyderabad: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:26:57] 🔍 Searching: Python Developer in Chennai
+[2025-12-08 22:26:57] ❌ Error scraping Python Developer in Chennai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:26:59] 🔍 Searching: Python Developer in Remote
+[2025-12-08 22:26:59] ❌ Error scraping Python Developer in Remote: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:27:01] 🔍 Searching: Data Scientist in Bangalore
+[2025-12-08 22:27:01] ❌ Error scraping Data Scientist in Bangalore: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:27:03] 🔍 Searching: Data Scientist in Mumbai
+[2025-12-08 22:27:03] ❌ Error scraping Data Scientist in Mumbai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:27:05] 🔍 Searching: Data Scientist in Hyderabad
+[2025-12-08 22:27:05] ❌ Error scraping Data Scientist in Hyderabad: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:27:07] 🔍 Searching: Data Scientist in Chennai
+[2025-12-08 22:27:07] ❌ Error scraping Data Scientist in Chennai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:27:09] 🔍 Searching: Data Scientist in Remote
+[2025-12-08 22:27:09] ❌ Error scraping Data Scientist in Remote: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:27:11] 🔍 Searching: Software Engineer in Bangalore
+[2025-12-08 22:27:11] ❌ Error scraping Software Engineer in Bangalore: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:27:13] 🔍 Searching: Software Engineer in Mumbai
+[2025-12-08 22:27:13] ❌ Error scraping Software Engineer in Mumbai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:27:15] 🔍 Searching: Software Engineer in Hyderabad
+[2025-12-08 22:27:15] ❌ Error scraping Software Engineer in Hyderabad: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:27:17] 🔍 Searching: Software Engineer in Chennai
+[2025-12-08 22:27:17] ❌ Error scraping Software Engineer in Chennai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:27:19] 🔍 Searching: Software Engineer in Remote
+[2025-12-08 22:27:19] ❌ Error scraping Software Engineer in Remote: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:27:21] 🔍 Searching: Machine Learning Engineer in Bangalore
+[2025-12-08 22:27:21] ❌ Error scraping Machine Learning Engineer in Bangalore: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:27:23] 🔍 Searching: Machine Learning Engineer in Mumbai
+[2025-12-08 22:27:23] ❌ Error scraping Machine Learning Engineer in Mumbai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:27:25] 🔍 Searching: Machine Learning Engineer in Hyderabad
+[2025-12-08 22:27:25] ❌ Error scraping Machine Learning Engineer in Hyderabad: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:27:27] 🔍 Searching: Machine Learning Engineer in Chennai
+[2025-12-08 22:27:27] ❌ Error scraping Machine Learning Engineer in Chennai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:27:29] 🔍 Searching: Machine Learning Engineer in Remote
+[2025-12-08 22:27:29] ❌ Error scraping Machine Learning Engineer in Remote: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:27:31] 
+📊 Total jobs found: 0
+[2025-12-08 22:27:31] ================================================================================
+[2025-12-08 22:27:31] 
+================================================================================
+[2025-12-08 22:27:31] ✅ BOT COMPLETED!
+[2025-12-08 22:27:31] 📊 Total Analyzed: 0
+[2025-12-08 22:27:31] ✅ Applications Sent: 0
+[2025-12-08 22:27:31] ❌ Fatal error: division by zero
+[2025-12-08 22:28:10] ================================================================================
+[2025-12-08 22:28:10] 🤖 ADVANCED AI JOB APPLICATION BOT STARTED
+[2025-12-08 22:28:10] ================================================================================
+[2025-12-08 22:28:10] 📧 Email: vignesh.yadala@gmail.com
+[2025-12-08 22:28:10] 🎯 Target Roles: Python Developer, Data Scientist, Software Engineer, Machine Learning Engineer
+[2025-12-08 22:28:10] 📍 Target Locations: Bangalore, Mumbai, Hyderabad, Chennai, Remote
+[2025-12-08 22:28:10] 📊 Min Match Score: 75%
+[2025-12-08 22:28:10] 📝 Max Applications Today: 10
+[2025-12-08 22:28:10] ================================================================================
+[2025-12-08 22:28:12] 🔐 Logging into Naukri.com...
+[2025-12-08 22:28:16]   ✓ Email filled using selector: input[type='text']
+[2025-12-08 22:28:17]   ✓ Password filled using selector: input[type='password']
+[2025-12-08 22:28:18]   ✓ Login button clicked
+[2025-12-08 22:28:23] ⚠️  Waiting for login to complete...
+[2025-12-08 22:28:23] ⏸️  If you see CAPTCHA or need to verify, do it now.
+[2025-12-08 22:28:23] ⏸️  Press ENTER after you've logged in...
+[2025-12-08 22:28:51] 🔍 Searching: Python Developer in Bangalore
+[2025-12-08 22:28:57] 📋 Found 20 jobs
+[2025-12-08 22:29:00]   ✓ Extracted: Python Developer at Appzlogic
+[2025-12-08 22:29:04]   ✓ Extracted: Python Developer at Cybrosys
+[2025-12-08 22:29:08]   ✓ Extracted: Python Software Developer at Vibry Business Solutions
+[2025-12-08 22:29:11]   ✓ Extracted: Python Developer at Huntertech Ventures
+[2025-12-08 22:29:15]   ✓ Extracted: Python Developer at Billions United
+[2025-12-08 22:29:18]   ✓ Extracted: Python developer at Wadhwani Foundation
+[2025-12-08 22:29:22]   ✓ Extracted: Python Developer at Storilabs System
+[2025-12-08 22:29:26]   ✓ Extracted: Python Developer at Conneqt
+[2025-12-08 22:29:29]   ✓ Extracted: Python Developer at 47billion
+[2025-12-08 22:29:32]   ✓ Extracted: Python/Web Developer at Qantom
+[2025-12-08 22:29:36]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:29:40]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:29:44]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:29:49]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:29:52]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:29:54] 🔍 Searching: Python Developer in Mumbai
+[2025-12-08 22:29:57] 📋 Found 20 jobs
+[2025-12-08 22:30:01]   ✓ Extracted: Python Developer at Appzlogic
+[2025-12-08 22:30:05]   ✓ Extracted: Python Developer at Lumina Datamatics
+[2025-12-08 22:30:09]   ✓ Extracted: Python Developer at Reapmind Innovations
+[2025-12-08 22:30:14]   ✓ Extracted: Internship- Python Developer at Viga Entertainment Technology
+[2025-12-08 22:30:16]   ✓ Extracted: Software Engineer at Salesasaseva
+[2025-12-08 22:30:20]   ✓ Extracted: Python Engineer at Scalereal Technologies
+[2025-12-08 22:30:24]   ✓ Extracted: Developer at Kiebot
+[2025-12-08 22:30:29]   ✓ Extracted: AI Software Engineer at Godigi Infotech
+[2025-12-08 22:30:33]   ✓ Extracted: SW Engineer IV at NCR Atleos
+[2025-12-08 22:30:37]   ✓ Extracted: SPFx Developer at Prosares Solutions
+[2025-12-08 22:30:42]   ✓ Extracted: Developer at Upkar Leasing And Finance Company
+[2025-12-08 22:30:47]   ✓ Extracted: Apigee Developer at Diverse Lynx
+[2025-12-08 22:30:50]   ✓ Extracted: Junior AI Engineer (India) at Micro1
+[2025-12-08 22:30:54]   ✓ Extracted: Senior Python & Spark Developer at Mantras2success Consultants
+[2025-12-08 22:30:58]   ✓ Extracted: AI Automation Engineer at R C W M A S Global
+[2025-12-08 22:31:00] 🔍 Searching: Python Developer in Hyderabad
+[2025-12-08 22:31:05] 📋 Found 20 jobs
+[2025-12-08 22:31:11]   ✓ Extracted: Python Developer at Appzlogic
+[2025-12-08 22:31:17]   ✓ Extracted: Python Developer at Jobsmill
+[2025-12-08 22:31:23]   ✓ Extracted: Python Software Developer at Vibry Business Solutions
+[2025-12-08 22:31:28]   ✓ Extracted: Python Developer at Clerro Technologies
+[2025-12-08 22:31:34]   ✓ Extracted: Python Developer at Virtue Software Technologies
+[2025-12-08 22:31:40]   ✓ Extracted: Python Developer at Indium Software
+[2025-12-08 22:31:48]   ✓ Extracted: Python Developer at Abbineni Business Management
+[2025-12-08 22:31:54]   ✓ Extracted: Python Developer at Navariti Innovation
+[2025-12-08 22:32:00]   ✓ Extracted: Python Developer at Fusion Plus Solutions Inc
+[2025-12-08 22:32:06]   ✓ Extracted: Python Developer at Fusion Plus Solutions Inc
+[2025-12-08 22:32:12]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:32:18]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:32:24]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:32:33]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:32:41]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:32:43] 🔍 Searching: Python Developer in Chennai
+[2025-12-08 22:32:48] 📋 Found 20 jobs
+[2025-12-08 22:32:54]   ✓ Extracted: Python Developer at Appzlogic
+[2025-12-08 22:33:02]   ✓ Extracted: Python Developer at DLK Technologies
+[2025-12-08 22:33:11]   ✓ Extracted: Python Developer at Surya Informatics
+[2025-12-08 22:33:17]   ✓ Extracted: Python Developer at ewallsolutions
+[2025-12-08 22:33:24]   ✓ Extracted: Python Developer 15 Positions at Added Value Technologies
+[2025-12-08 22:33:31]   ✓ Extracted: Python Web Developer at Uandwe Technologies
+[2025-12-08 22:33:37]   ✓ Extracted: Python and JavaScript Developer at Sutherland Global Services Inc
+[2025-12-08 22:33:45]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:33:53]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:34:01]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:34:08]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:34:16]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:34:23]   ✓ Extracted: Internship- Python Developer at Viga Entertainment Technology
+[2025-12-08 22:34:33]   ✓ Extracted: DEVELOPER INTERNSHIP at AATMIA DIGITAL MARKETING AND SECURITY PRIVATE LIMITED
+[2025-12-08 22:34:42]   ✓ Extracted: Software Engineer at Maples Capturing Technology Private Limited
+[2025-12-08 22:34:44] 🔍 Searching: Python Developer in Remote
+[2025-12-08 22:34:55] ❌ Error scraping Python Developer in Remote: Page.wait_for_selector: Target page, context or browser has been closed
+Call log:
+  - waiting for locator(".srp-jobtuple-wrapper") to be visible
+
+[2025-12-08 22:34:57] 🔍 Searching: Data Scientist in Bangalore
+[2025-12-08 22:34:57] ❌ Error scraping Data Scientist in Bangalore: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:34:59] 🔍 Searching: Data Scientist in Mumbai
+[2025-12-08 22:34:59] ❌ Error scraping Data Scientist in Mumbai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:35:01] 🔍 Searching: Data Scientist in Hyderabad
+[2025-12-08 22:35:01] ❌ Error scraping Data Scientist in Hyderabad: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:35:03] 🔍 Searching: Data Scientist in Chennai
+[2025-12-08 22:35:03] ❌ Error scraping Data Scientist in Chennai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:35:05] 🔍 Searching: Data Scientist in Remote
+[2025-12-08 22:35:05] ❌ Error scraping Data Scientist in Remote: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:35:07] 🔍 Searching: Software Engineer in Bangalore
+[2025-12-08 22:35:07] ❌ Error scraping Software Engineer in Bangalore: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:35:09] 🔍 Searching: Software Engineer in Mumbai
+[2025-12-08 22:35:09] ❌ Error scraping Software Engineer in Mumbai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:35:11] 🔍 Searching: Software Engineer in Hyderabad
+[2025-12-08 22:35:11] ❌ Error scraping Software Engineer in Hyderabad: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:35:13] 🔍 Searching: Software Engineer in Chennai
+[2025-12-08 22:35:13] ❌ Error scraping Software Engineer in Chennai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:35:15] 🔍 Searching: Software Engineer in Remote
+[2025-12-08 22:35:15] ❌ Error scraping Software Engineer in Remote: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:35:17] 🔍 Searching: Machine Learning Engineer in Bangalore
+[2025-12-08 22:35:17] ❌ Error scraping Machine Learning Engineer in Bangalore: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:35:19] 🔍 Searching: Machine Learning Engineer in Mumbai
+[2025-12-08 22:35:19] ❌ Error scraping Machine Learning Engineer in Mumbai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:35:21] 🔍 Searching: Machine Learning Engineer in Hyderabad
+[2025-12-08 22:35:21] ❌ Error scraping Machine Learning Engineer in Hyderabad: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:35:23] 🔍 Searching: Machine Learning Engineer in Chennai
+[2025-12-08 22:35:23] ❌ Error scraping Machine Learning Engineer in Chennai: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:35:25] 🔍 Searching: Machine Learning Engineer in Remote
+[2025-12-08 22:35:25] ❌ Error scraping Machine Learning Engineer in Remote: Page.goto: Target page, context or browser has been closed
+[2025-12-08 22:35:27] 
+📊 Total jobs found: 60
+[2025-12-08 22:35:27] ================================================================================
+[2025-12-08 22:35:27] 
+[1/60] Analyzing: Python Developer at Appzlogic
+[2025-12-08 22:35:27] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:27]   📊 Match Score: 0%
+[2025-12-08 22:35:27]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:27]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:28] 
+[2/60] Analyzing: Python Developer at Cybrosys
+[2025-12-08 22:35:29] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:29]   📊 Match Score: 0%
+[2025-12-08 22:35:29]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:29]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:30] 
+[3/60] Analyzing: Python Software Developer at Vibry Business Solutions
+[2025-12-08 22:35:30] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:30]   📊 Match Score: 0%
+[2025-12-08 22:35:30]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:30]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:31] 
+[4/60] Analyzing: Python Developer at Huntertech Ventures
+[2025-12-08 22:35:31] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:31]   📊 Match Score: 0%
+[2025-12-08 22:35:31]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:31]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:32] 
+[5/60] Analyzing: Python Developer at Billions United
+[2025-12-08 22:35:32] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:32]   📊 Match Score: 0%
+[2025-12-08 22:35:32]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:32]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:33] 
+[6/60] Analyzing: Python developer at Wadhwani Foundation
+[2025-12-08 22:35:34] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:34]   📊 Match Score: 0%
+[2025-12-08 22:35:34]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:34]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:35] 
+[7/60] Analyzing: Python Developer at Storilabs System
+[2025-12-08 22:35:35] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:35]   📊 Match Score: 0%
+[2025-12-08 22:35:35]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:35]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:36] 
+[8/60] Analyzing: Python Developer at Conneqt
+[2025-12-08 22:35:36] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:36]   📊 Match Score: 0%
+[2025-12-08 22:35:36]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:36]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:37] 
+[9/60] Analyzing: Python Developer at 47billion
+[2025-12-08 22:35:37] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:37]   📊 Match Score: 0%
+[2025-12-08 22:35:37]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:37]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:38] 
+[10/60] Analyzing: Python/Web Developer at Qantom
+[2025-12-08 22:35:39] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:39]   📊 Match Score: 0%
+[2025-12-08 22:35:39]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:39]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:40] 
+[11/60] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 22:35:40] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:40]   📊 Match Score: 0%
+[2025-12-08 22:35:40]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:40]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:41] 
+[12/60] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 22:35:41] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:41]   📊 Match Score: 0%
+[2025-12-08 22:35:41]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:41]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:42] 
+[13/60] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 22:35:42] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:42]   📊 Match Score: 0%
+[2025-12-08 22:35:42]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:42]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:43] 
+[14/60] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 22:35:44] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:44]   📊 Match Score: 0%
+[2025-12-08 22:35:44]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:44]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:45] 
+[15/60] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 22:35:45] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:45]   📊 Match Score: 0%
+[2025-12-08 22:35:45]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:45]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:46] 
+[16/60] Analyzing: Python Developer at Appzlogic
+[2025-12-08 22:35:46] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:46]   📊 Match Score: 0%
+[2025-12-08 22:35:46]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:46]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:47] 
+[17/60] Analyzing: Python Developer at Lumina Datamatics
+[2025-12-08 22:35:47] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:47]   📊 Match Score: 0%
+[2025-12-08 22:35:47]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:47]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:48] 
+[18/60] Analyzing: Python Developer at Reapmind Innovations
+[2025-12-08 22:35:49] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:49]   📊 Match Score: 0%
+[2025-12-08 22:35:49]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:49]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:50] 
+[19/60] Analyzing: Internship- Python Developer at Viga Entertainment Technology
+[2025-12-08 22:35:50] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:50]   📊 Match Score: 0%
+[2025-12-08 22:35:50]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:50]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:51] 
+[20/60] Analyzing: Software Engineer at Salesasaseva
+[2025-12-08 22:35:51] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:51]   📊 Match Score: 0%
+[2025-12-08 22:35:51]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:51]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:52] 
+[21/60] Analyzing: Python Engineer at Scalereal Technologies
+[2025-12-08 22:35:52] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:52]   📊 Match Score: 0%
+[2025-12-08 22:35:52]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:52]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:53] 
+[22/60] Analyzing: Developer at Kiebot
+[2025-12-08 22:35:54] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:54]   📊 Match Score: 0%
+[2025-12-08 22:35:54]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:54]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:55] 
+[23/60] Analyzing: AI Software Engineer at Godigi Infotech
+[2025-12-08 22:35:55] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:55]   📊 Match Score: 0%
+[2025-12-08 22:35:55]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:55]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:56] 
+[24/60] Analyzing: SW Engineer IV at NCR Atleos
+[2025-12-08 22:35:56] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:56]   📊 Match Score: 0%
+[2025-12-08 22:35:56]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:56]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:57] 
+[25/60] Analyzing: SPFx Developer at Prosares Solutions
+[2025-12-08 22:35:57] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:57]   📊 Match Score: 0%
+[2025-12-08 22:35:57]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:58]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:35:59] 
+[26/60] Analyzing: Developer at Upkar Leasing And Finance Company
+[2025-12-08 22:35:59] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:35:59]   📊 Match Score: 0%
+[2025-12-08 22:35:59]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:35:59]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:00] 
+[27/60] Analyzing: Apigee Developer at Diverse Lynx
+[2025-12-08 22:36:00] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:00]   📊 Match Score: 0%
+[2025-12-08 22:36:00]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:00]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:01] 
+[28/60] Analyzing: Junior AI Engineer (India) at Micro1
+[2025-12-08 22:36:01] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:01]   📊 Match Score: 0%
+[2025-12-08 22:36:01]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:01]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:02] 
+[29/60] Analyzing: Senior Python & Spark Developer at Mantras2success Consultants
+[2025-12-08 22:36:02] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:02]   📊 Match Score: 0%
+[2025-12-08 22:36:02]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:02]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:03] 
+[30/60] Analyzing: AI Automation Engineer at R C W M A S Global
+[2025-12-08 22:36:04] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:04]   📊 Match Score: 0%
+[2025-12-08 22:36:04]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:04]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:05] 
+[31/60] Analyzing: Python Developer at Appzlogic
+[2025-12-08 22:36:05] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:05]   📊 Match Score: 0%
+[2025-12-08 22:36:05]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:05]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:06] 
+[32/60] Analyzing: Python Developer at Jobsmill
+[2025-12-08 22:36:06] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:06]   📊 Match Score: 0%
+[2025-12-08 22:36:06]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:06]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:07] 
+[33/60] Analyzing: Python Software Developer at Vibry Business Solutions
+[2025-12-08 22:36:07] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:07]   📊 Match Score: 0%
+[2025-12-08 22:36:07]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:07]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:08] 
+[34/60] Analyzing: Python Developer at Clerro Technologies
+[2025-12-08 22:36:09] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:09]   📊 Match Score: 0%
+[2025-12-08 22:36:09]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:09]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:10] 
+[35/60] Analyzing: Python Developer at Virtue Software Technologies
+[2025-12-08 22:36:10] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:10]   📊 Match Score: 0%
+[2025-12-08 22:36:10]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:10]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:11] 
+[36/60] Analyzing: Python Developer at Indium Software
+[2025-12-08 22:36:11] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:11]   📊 Match Score: 0%
+[2025-12-08 22:36:11]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:11]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:12] 
+[37/60] Analyzing: Python Developer at Abbineni Business Management
+[2025-12-08 22:36:13] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:13]   📊 Match Score: 0%
+[2025-12-08 22:36:13]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:13]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:14] 
+[38/60] Analyzing: Python Developer at Navariti Innovation
+[2025-12-08 22:36:14] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:14]   📊 Match Score: 0%
+[2025-12-08 22:36:14]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:14]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:15] 
+[39/60] Analyzing: Python Developer at Fusion Plus Solutions Inc
+[2025-12-08 22:36:15] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:15]   📊 Match Score: 0%
+[2025-12-08 22:36:15]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:15]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:16] 
+[40/60] Analyzing: Python Developer at Fusion Plus Solutions Inc
+[2025-12-08 22:36:16] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:16]   📊 Match Score: 0%
+[2025-12-08 22:36:16]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:16]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:17] 
+[41/60] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 22:36:18] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:18]   📊 Match Score: 0%
+[2025-12-08 22:36:18]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:18]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:19] 
+[42/60] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 22:36:19] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:19]   📊 Match Score: 0%
+[2025-12-08 22:36:19]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:19]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:20] 
+[43/60] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 22:36:20] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:20]   📊 Match Score: 0%
+[2025-12-08 22:36:20]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:20]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:21] 
+[44/60] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 22:36:21] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:21]   📊 Match Score: 0%
+[2025-12-08 22:36:21]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:21]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:22] 
+[45/60] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 22:36:23] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:23]   📊 Match Score: 0%
+[2025-12-08 22:36:23]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:23]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:24] 
+[46/60] Analyzing: Python Developer at Appzlogic
+[2025-12-08 22:36:24] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:24]   📊 Match Score: 0%
+[2025-12-08 22:36:24]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:24]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:25] 
+[47/60] Analyzing: Python Developer at DLK Technologies
+[2025-12-08 22:36:25] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:25]   📊 Match Score: 0%
+[2025-12-08 22:36:25]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:25]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:26] 
+[48/60] Analyzing: Python Developer at Surya Informatics
+[2025-12-08 22:36:26] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:26]   📊 Match Score: 0%
+[2025-12-08 22:36:26]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:26]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:27] 
+[49/60] Analyzing: Python Developer at ewallsolutions
+[2025-12-08 22:36:28] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:28]   📊 Match Score: 0%
+[2025-12-08 22:36:28]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:28]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:29] 
+[50/60] Analyzing: Python Developer 15 Positions at Added Value Technologies
+[2025-12-08 22:36:29] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:29]   📊 Match Score: 0%
+[2025-12-08 22:36:29]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:29]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:30] 
+[51/60] Analyzing: Python Web Developer at Uandwe Technologies
+[2025-12-08 22:36:30] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:30]   📊 Match Score: 0%
+[2025-12-08 22:36:30]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:30]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:31] 
+[52/60] Analyzing: Python and JavaScript Developer at Sutherland Global Services Inc
+[2025-12-08 22:36:31] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:31]   📊 Match Score: 0%
+[2025-12-08 22:36:31]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:31]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:32] 
+[53/60] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 22:36:33] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:33]   📊 Match Score: 0%
+[2025-12-08 22:36:33]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:33]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:34] 
+[54/60] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 22:36:34] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:34]   📊 Match Score: 0%
+[2025-12-08 22:36:34]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:34]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:35] 
+[55/60] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 22:36:35] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:35]   📊 Match Score: 0%
+[2025-12-08 22:36:35]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:35]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:36] 
+[56/60] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 22:36:36] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:36]   📊 Match Score: 0%
+[2025-12-08 22:36:36]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:36]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:37] 
+[57/60] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 22:36:38] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:38]   📊 Match Score: 0%
+[2025-12-08 22:36:38]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:38]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:39] 
+[58/60] Analyzing: Internship- Python Developer at Viga Entertainment Technology
+[2025-12-08 22:36:39] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:39]   📊 Match Score: 0%
+[2025-12-08 22:36:39]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:39]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:40] 
+[59/60] Analyzing: DEVELOPER INTERNSHIP at AATMIA DIGITAL MARKETING AND SECURITY PRIVATE LIMITED
+[2025-12-08 22:36:40] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:40]   📊 Match Score: 0%
+[2025-12-08 22:36:40]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:40]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:41] 
+[60/60] Analyzing: Software Engineer at Maples Capturing Technology Private Limited
+[2025-12-08 22:36:42] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 22:36:42]   📊 Match Score: 0%
+[2025-12-08 22:36:42]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 22:36:42]   ⏭️  Skipping (score too low or not recommended)
+[2025-12-08 22:36:43] 💾 Results saved to: data\job_results_20251208_223643.csv
+[2025-12-08 22:36:43] 
+================================================================================
+[2025-12-08 22:36:43] ✅ BOT COMPLETED!
+[2025-12-08 22:36:43] 📊 Total Analyzed: 60
+[2025-12-08 22:36:43] ✅ Applications Sent: 0
+[2025-12-08 22:36:43] 📈 Average Match Score: 0.0%
+[2025-12-08 22:36:43] ================================================================================
+[2025-12-08 22:36:43] 🔒 Closing browser...
+[2025-12-08 22:55:05] ================================================================================
+[2025-12-08 22:55:05] 🤖 ADVANCED AI JOB APPLICATION BOT STARTED
+[2025-12-08 22:55:05] ================================================================================
+[2025-12-08 22:55:05] 📧 Email: vignesh.yadala@gmail.com
+[2025-12-08 22:55:05] 🎯 Target Roles: Python Developer, Data Scientist, Software Engineer, Machine Learning Engineer
+[2025-12-08 22:55:05] 📍 Target Locations: Bangalore, Mumbai, Hyderabad, Chennai, Remote
+[2025-12-08 22:55:05] 📊 Min Match Score: 75%
+[2025-12-08 22:55:05] 📝 Max Applications Today: 10
+[2025-12-08 22:55:05] ================================================================================
+[2025-12-08 22:55:07] 🔐 Logging into Naukri.com...
+[2025-12-08 22:55:11]   ✓ Email filled using selector: input[type='text']
+[2025-12-08 22:55:12]   ✓ Password filled using selector: input[type='password']
+[2025-12-08 22:55:13]   ✓ Login button clicked
+[2025-12-08 22:55:18] ⚠️  Waiting for login to complete...
+[2025-12-08 22:55:18] ⏸️  If you see CAPTCHA or need to verify, do it now.
+[2025-12-08 22:55:18] ⏸️  Press ENTER after you've logged in...
+[2025-12-08 22:55:42] 🔍 Searching: Python Developer in Bangalore
+[2025-12-08 22:55:51] 📋 Found 20 jobs
+[2025-12-08 22:55:51]   ✓ Extracted: Python Developer at Appzlogic
+[2025-12-08 22:55:51]   ✓ Extracted: Python Developer at Cybrosys
+[2025-12-08 22:55:51]   ✓ Extracted: Python Software Developer at Vibry Business Solutions
+[2025-12-08 22:55:51]   ✓ Extracted: Python Developer at Huntertech Ventures
+[2025-12-08 22:55:52]   ✓ Extracted: Python Developer at Billions United
+[2025-12-08 22:55:52]   ✓ Extracted: Python developer at Wadhwani Foundation
+[2025-12-08 22:55:53]   ✓ Extracted: Python Developer at Storilabs System
+[2025-12-08 22:55:53]   ✓ Extracted: Python Developer at Conneqt
+[2025-12-08 22:55:53]   ✓ Extracted: Python Developer at 47billion
+[2025-12-08 22:55:53]   ✓ Extracted: Python/Web Developer at Qantom
+[2025-12-08 22:55:53]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:55:53]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:55:53]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:55:54]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:55:54]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:55:56] 🔍 Searching: Python Developer in Mumbai
+[2025-12-08 22:55:59] 📋 Found 20 jobs
+[2025-12-08 22:56:00]   ✓ Extracted: Python Developer at Appzlogic
+[2025-12-08 22:56:00]   ✓ Extracted: Python Developer at Lumina Datamatics
+[2025-12-08 22:56:00]   ✓ Extracted: Python Developer at Reapmind Innovations
+[2025-12-08 22:56:00]   ✓ Extracted: Internship- Python Developer at Viga Entertainment Technology
+[2025-12-08 22:56:00]   ✓ Extracted: Software Engineer at Salesasaseva
+[2025-12-08 22:56:00]   ✓ Extracted: Python Engineer at Scalereal Technologies
+[2025-12-08 22:56:00]   ✓ Extracted: Developer at Kiebot
+[2025-12-08 22:56:00]   ✓ Extracted: AI Software Engineer at Godigi Infotech
+[2025-12-08 22:56:00]   ✓ Extracted: SW Engineer IV at NCR Atleos
+[2025-12-08 22:56:01]   ✓ Extracted: SPFx Developer at Prosares Solutions
+[2025-12-08 22:56:01]   ✓ Extracted: Developer at Upkar Leasing And Finance Company
+[2025-12-08 22:56:01]   ✓ Extracted: Apigee Developer at Diverse Lynx
+[2025-12-08 22:56:01]   ✓ Extracted: Junior AI Engineer (India) at Micro1
+[2025-12-08 22:56:01]   ✓ Extracted: Senior Python & Spark Developer at Mantras2success Consultants
+[2025-12-08 22:56:01]   ✓ Extracted: AI Automation Engineer at R C W M A S Global
+[2025-12-08 22:56:03] 🔍 Searching: Python Developer in Hyderabad
+[2025-12-08 22:56:07] 📋 Found 20 jobs
+[2025-12-08 22:56:07]   ✓ Extracted: Python Developer at Appzlogic
+[2025-12-08 22:56:07]   ✓ Extracted: Python Developer at Jobsmill
+[2025-12-08 22:56:07]   ✓ Extracted: Python Software Developer at Vibry Business Solutions
+[2025-12-08 22:56:07]   ✓ Extracted: Python Developer at Clerro Technologies
+[2025-12-08 22:56:07]   ✓ Extracted: Python Developer at Virtue Software Technologies
+[2025-12-08 22:56:07]   ✓ Extracted: Python Developer at Indium Software
+[2025-12-08 22:56:08]   ✓ Extracted: Python Developer at Abbineni Business Management
+[2025-12-08 22:56:08]   ✓ Extracted: Python Developer at Navariti Innovation
+[2025-12-08 22:56:08]   ✓ Extracted: Python Developer at Fusion Plus Solutions Inc
+[2025-12-08 22:56:08]   ✓ Extracted: Python Developer at Fusion Plus Solutions Inc
+[2025-12-08 22:56:08]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:56:08]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:56:08]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:56:08]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:56:08]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:56:10] 🔍 Searching: Python Developer in Chennai
+[2025-12-08 22:56:14] 📋 Found 20 jobs
+[2025-12-08 22:56:14]   ✓ Extracted: Python Developer at Appzlogic
+[2025-12-08 22:56:14]   ✓ Extracted: Python Developer at DLK Technologies
+[2025-12-08 22:56:14]   ✓ Extracted: Python Developer at Surya Informatics
+[2025-12-08 22:56:14]   ✓ Extracted: Python Developer at ewallsolutions
+[2025-12-08 22:56:15]   ✓ Extracted: Python Developer 15 Positions at Added Value Technologies
+[2025-12-08 22:56:15]   ✓ Extracted: Python Web Developer at Uandwe Technologies
+[2025-12-08 22:56:15]   ✓ Extracted: Python and JavaScript Developer at Sutherland Global Services Inc
+[2025-12-08 22:56:15]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:56:15]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:56:15]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:56:15]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:56:15]   ✓ Extracted: Python Software Developer at ti Steps
+[2025-12-08 22:56:16]   ✓ Extracted: Internship- Python Developer at Viga Entertainment Technology
+[2025-12-08 22:56:16]   ✓ Extracted: DEVELOPER INTERNSHIP at AATMIA DIGITAL MARKETING AND SECURITY PRIVATE LIMITED
+[2025-12-08 22:56:16]   ✓ Extracted: Software Engineer at Maples Capturing Technology Private Limited
+[2025-12-08 22:56:18] 🔍 Searching: Python Developer in Remote
+[2025-12-08 22:56:22] 📋 Found 20 jobs
+[2025-12-08 22:56:22]   ✓ Extracted: Python Developer at Vinnovate Technologies
+[2025-12-08 22:56:22]   ✓ Extracted: Python Developer at Jalopeura Technology
+[2025-12-08 22:56:22]   ✓ Extracted: Software Engineer at Numerator
+[2025-12-08 22:56:22]   ✓ Extracted: Python Application Developer at SNS System
+[2025-12-08 22:56:22]   ✓ Extracted: Junior AI Solutions Developer SeerTech Systems at Seertech System
+[2025-12-08 22:56:22]   ✓ Extracted: NLP Developer at Busigence Technologies
+[2025-12-08 22:56:22]   ✓ Extracted: Kafka Developer at Busigence Technologies
+[2025-12-08 22:56:22]   ✓ Extracted: NLP Developer at Busigence Technologies
+[2025-12-08 22:56:23]   ✓ Extracted: AI Developer at SNS System
+[2025-12-08 22:56:23]   ✓ Extracted: Senior Software Engineer (Back-end, SaaS, Python) at Iterative Knowledge Solutions
+[2025-12-08 22:56:23]   ✓ Extracted: Fresher - Data Science Engineer at Busigence Technologies
+[2025-12-08 22:56:23]   ✓ Extracted: Fresher - Data Engineer at Busigence Technologies
+[2025-12-08 22:56:23]   ✓ Extracted: Django Developer at Busigence Technologies
+[2025-12-08 22:56:23]   ✓ Extracted: Machine Learning Intern at Eyerov
+[2025-12-08 22:56:23]   ✓ Extracted: SKS Intern at SKS Enterpprises
+[2025-12-08 22:56:25] 🔍 Searching: Data Scientist in Bangalore
+[2025-12-08 22:56:29] 📋 Found 20 jobs
+[2025-12-08 22:56:29]   ✓ Extracted: Data Scientist at Han Digital Solution
+[2025-12-08 22:56:29]   ✓ Extracted: Data Scientist I at 360DigiTMG
+[2025-12-08 22:56:29]   ✓ Extracted: Data Scientist, I at Antuit
+[2025-12-08 22:56:29]   ✓ Extracted: Data Scientist at Data Collection Infotech
+[2025-12-08 22:56:29]   ✓ Extracted: Data Scientist at ti Steps
+[2025-12-08 22:56:29]   ✓ Extracted: Data Scientist at ti Steps
+[2025-12-08 22:56:29]   ✓ Extracted: Data Scientist at Akaike Technologies
+[2025-12-08 22:56:30]   ✓ Extracted: Data Scientist at ti Steps
+[2025-12-08 22:56:30]   ✓ Extracted: Data Scientist at ti Steps
+[2025-12-08 22:56:30]   ✓ Extracted: Data Scientist at ti Steps
+[2025-12-08 22:56:30]   ✓ Extracted: Data Scientist at ti Steps
+[2025-12-08 22:56:30]   ✓ Extracted: Data Scientist at LLP S3bglobal Technologies
+[2025-12-08 22:56:30]   ✓ Extracted: Principal Data Scientist / Senior Data Scientist/ Data Scientist - NLP at Benovymed Healthcare Private Limited
+[2025-12-08 22:56:30]   ✓ Extracted: Principal Data Scientist/Senior Data Scientist/Data Scientist at Benovymed Healthcare Private Ltd
+[2025-12-08 22:56:30]   ✓ Extracted: Associate Data Scientist at KAS Services
+[2025-12-08 22:56:32] 🔍 Searching: Data Scientist in Mumbai
+[2025-12-08 22:56:39] 📋 Found 20 jobs
+[2025-12-08 22:56:39]   ✓ Extracted: Principal Data Scientist / Senior Data Scientist / Data Scientist at Benovymed Healthcare Private Ltd
+[2025-12-08 22:56:39]   ✓ Extracted: Principal Data Scientist/Senior Data Scientist/Data Scientist - NLP/ML at Benovymed Healthcare Private Limited
+[2025-12-08 22:56:39]   ✓ Extracted: Principal Data Scientist / Sr. Data Scientist / Data Scientist - NLP at Benovymed Healthcare Private Ltd
+[2025-12-08 22:56:39]   ✓ Extracted: Data Scientist Malaysia/ India recruiting for80 Clients at Monde Corporation (MNC)
+[2025-12-08 22:56:39]   ✓ Extracted: Data Analyst /Data Scientist-PAN India at SAP Servers Tech
+[2025-12-08 22:56:40]   ✓ Extracted: Spark Developer at Appzlogic
+[2025-12-08 22:56:40]   ✓ Extracted: Data Annotation- Dermatalogy at Wadhwani Ai
+[2025-12-08 22:56:40]   ✓ Extracted: Junior data engineer at Dhurin
+[2025-12-08 22:56:40]   ✓ Extracted: Data Analyst at Morningstar
+[2025-12-08 22:56:40]   ✓ Extracted: Analyst at Large corporate
+[2025-12-08 22:56:40]   ✓ Extracted: CHESS/ ESG - Data Analyst at Trafigura
+[2025-12-08 22:56:40]   ✓ Extracted: Business Analyst CA qualification Mumbai Andheri West at Financial Company
+[2025-12-08 22:56:40]   ✓ Extracted: Data Analyst at Integrated Personnel Services
+[2025-12-08 22:56:40]   ✓ Extracted: Business Analyst at Leading Client
+[2025-12-08 22:56:41]   ✓ Extracted: Content Writer Trainee at Infidigit
+[2025-12-08 22:56:43] 🔍 Searching: Data Scientist in Hyderabad
+[2025-12-08 22:56:46] 📋 Found 20 jobs
+[2025-12-08 22:56:46]   ✓ Extracted: Data Scientist at Maddisoft Solutions
+[2025-12-08 22:56:46]   ✓ Extracted: Data Scientist at Hbic Solutions
+[2025-12-08 22:56:47]   ✓ Extracted: Data Scientist at Syngenta
+[2025-12-08 22:56:47]   ✓ Extracted: Data Scientist at ti Steps
+[2025-12-08 22:56:47]   ✓ Extracted: Data Scientist at ti Steps
+[2025-12-08 22:56:47]   ✓ Extracted: Data Scientist at ti Steps
+[2025-12-08 22:56:47]   ✓ Extracted: Data Scientist at ti Steps
+[2025-12-08 22:56:47]   ✓ Extracted: Data Scientist at ti Steps
+[2025-12-08 22:56:47]   ✓ Extracted: Data Scientist at ti Steps
+[2025-12-08 22:56:47]   ✓ Extracted: Data Scientist - GenAI & LLMs at Acess Meditech
+[2025-12-08 22:56:48]   ✓ Extracted: Principal Data Scientist/Senior Data Scientist/Data Scientist - NLP at Benovymed Healthcare Private Limited
+[2025-12-08 22:56:48]   ✓ Extracted: Principal Data Scientist / Senior Data Scientist/ Data Scientist - NLP at Benovymed Healthcare Private Limited
+[2025-12-08 22:56:48]   ✓ Extracted: Principal Data Scientist/ Senior Data Scientist/Data Scientist at Benovymed Healthcare Private Ltd
+[2025-12-08 22:56:48]   ✓ Extracted: AI Art Director at ti Steps
+[2025-12-08 22:56:48]   ✓ Extracted: Applied Scientist II at Amazon
+[2025-12-08 22:56:50] 🔍 Searching: Data Scientist in Chennai
+[2025-12-08 22:56:55] 📋 Found 20 jobs
+[2025-12-08 22:56:55]   ✓ Extracted: Data Scientist at ti Steps
+[2025-12-08 22:56:55]   ✓ Extracted: Data Scientist at ti Steps
+[2025-12-08 22:56:55]   ✓ Extracted: Data Scientist at ti Steps
+[2025-12-08 22:56:55]   ✓ Extracted: Data Scientist at ti Steps
+[2025-12-08 22:56:55]   ✓ Extracted: Data Scientist at ti Steps
+[2025-12-08 22:56:55]   ✓ Extracted: Data Scientist at ti Steps
+[2025-12-08 22:56:55]   ✓ Extracted: Principal Data Scientist/Senior Data Scientist/Data Scientist at Benovymed Healthcare Private Limited
+[2025-12-08 22:56:55]   ✓ Extracted: Principal Data Scientist/Senior Data Scientist/Data Scientist - NLP at Benovymed Healthcare Private Limited
+[2025-12-08 22:56:56]   ✓ Extracted: Data Engineer / Analyst at We Shine Academy
+[2025-12-08 22:56:56]   ✓ Extracted: Data Science Engineer at Jidoka Technologies
+[2025-12-08 22:56:56]   ✓ Extracted: AI Art Director at ti Steps
+[2025-12-08 22:56:56]   ✓ Extracted: Senior Analyst -FEA at Lennox India Technology Centre (LITC)
+[2025-12-08 22:56:56]   ✓ Extracted: Business Analyst at Delibo
+[2025-12-08 22:56:56]   ✓ Extracted: Data Architect at ti Steps
+[2025-12-08 22:56:56]   ✓ Extracted: Big Data Manager at ti Steps
+[2025-12-08 22:56:58] 🔍 Searching: Data Scientist in Remote
+[2025-12-08 22:57:02] 📋 Found 20 jobs
+[2025-12-08 22:57:02]   ✓ Extracted: Data Scientist Trainee at Intechnative Systems & Services
+[2025-12-08 22:57:02]   ✓ Extracted: DATA SCIENTIST - INTERN at Matsci Ai
+[2025-12-08 22:57:02]   ✓ Extracted: AI/ML Engineer at Onelab Ventures
+[2025-12-08 22:57:02]   ✓ Extracted: AI Developer at SNS System
+[2025-12-08 22:57:02]   ✓ Extracted: Senior Product Designer at Speechify
+[2025-12-08 22:57:03]   ✓ Extracted: Data Science Intern at TechKnowledgeHub.org
+[2025-12-08 22:57:03]   ✓ Extracted: Python Application Developer at SNS System
+[2025-12-08 22:57:03]   ✓ Extracted: Junior Scientist at Vericle
+[2025-12-08 22:57:03]   ✓ Extracted: Deep Learning Engineer at Seaportai
+[2025-12-08 22:57:03]   ✓ Extracted: Backend engineer at Aampe
+[2025-12-08 22:57:03]   ✓ Extracted: Junior ASO Specialist at Boosta
+[2025-12-08 22:57:03]   ✓ Extracted: SOFTWARE ENGINEER (FULL STACK)- INTERN at Matsci Ai
+[2025-12-08 22:57:03]   ✓ Extracted: Data Analyst at Antarctica Global
+[2025-12-08 22:57:03]   ✓ Extracted: Staff Machine Learning Engineer at Adalat Ai
+[2025-12-08 22:57:04]   ✓ Extracted: Data Analyst at Digital Solution Tech
+[2025-12-08 22:57:06] 🔍 Searching: Software Engineer in Bangalore
+[2025-12-08 22:57:10] 📋 Found 20 jobs
+[2025-12-08 22:57:10]   ✓ Extracted: Software Engineer, developer / Programmer, 2025 graduate Can also appl at Creative Hands HR
+[2025-12-08 22:57:10]   ✓ Extracted: Software Engineer at Scribble Data
+[2025-12-08 22:57:10]   ✓ Extracted: Software Engineer at Salesasaseva
+[2025-12-08 22:57:10]   ✓ Extracted: Software Engineer, AIML at NatWest Markets
+[2025-12-08 22:57:10]   ✓ Extracted: Software Engineer at GIST
+[2025-12-08 22:57:10]   ✓ Extracted: Software Engineer at Cambium Networks
+[2025-12-08 22:57:10]   ✓ Extracted: AI Software Engineer at Godigi Infotech
+[2025-12-08 22:57:10]   ✓ Extracted: Software Engineer at Persolkelly India
+[2025-12-08 22:57:11]   ✓ Extracted: Software Engineer, University Graduate, 2026 at Google
+[2025-12-08 22:57:11]   ✓ Extracted: Software Engineer - Data Pipeline at Mediamath
+[2025-12-08 22:57:11]   ✓ Extracted: Software Engineer, PhD, Early Career, Campus, 2025 Start at Google
+[2025-12-08 22:57:11]   ✓ Extracted: Software Engineer at Silvan Innovation Labs
+[2025-12-08 22:57:11]   ✓ Extracted: Software Engineer at Shanti Industries
+[2025-12-08 22:57:11]   ✓ Extracted: Software Engineer at ti Steps
+[2025-12-08 22:57:11]   ✓ Extracted: Software Engineer at ti Steps
+[2025-12-08 22:57:13] 🔍 Searching: Software Engineer in Mumbai
+[2025-12-08 22:57:17] 📋 Found 20 jobs
+[2025-12-08 22:57:17]   ✓ Extracted: Software Engineer at Scribble Data
+[2025-12-08 22:57:17]   ✓ Extracted: Software Engineer at Salesasaseva
+[2025-12-08 22:57:17]   ✓ Extracted: SOFTWARE ENGINEER at Godigi Infotech
+[2025-12-08 22:57:17]   ✓ Extracted: AI Software Engineer at Godigi Infotech
+[2025-12-08 22:57:17]   ✓ Extracted: Software Engineer at Speechify
+[2025-12-08 22:57:17]   ✓ Extracted: Software Engineer at Sasken Technologies
+[2025-12-08 22:57:18]   ✓ Extracted: Software Engineer, developer / Programmer, 2025 graduate Can apply at Creative Hands HR
+[2025-12-08 22:57:18]   ✓ Extracted: Software Engineer at Netgains Technologies
+[2025-12-08 22:57:18]   ✓ Extracted: Software Engineer at Nomura
+[2025-12-08 22:57:18]   ✓ Extracted: Software Engineer at Embedos Engineering
+[2025-12-08 22:57:19]   ✓ Extracted: Software Engineer - Freshers at Odex India Solutions
+[2025-12-08 22:57:19]   ✓ Extracted: Software Engineer - IT at Odex India Solutions
+[2025-12-08 22:57:19]   ✓ Extracted: Senior Backend Software Engineer at Cybernetics Controls
+[2025-12-08 22:57:19]   ✓ Extracted: Senior Backend Software Engineer at Cybernetics Controls
+[2025-12-08 22:57:19]   ✓ Extracted: Full Stack Software Engineer at Cybernetics Controls
+[2025-12-08 22:57:21] 🔍 Searching: Software Engineer in Hyderabad
+[2025-12-08 22:57:25] 📋 Found 20 jobs
+[2025-12-08 22:57:25]   ✓ Extracted: Software Engineer, developer / Programmer, 2025 graduate Can also appl at Creative Hands HR
+[2025-12-08 22:57:25]   ✓ Extracted: Software Engineer at Scribble Data
+[2025-12-08 22:57:25]   ✓ Extracted: Software Engineer at Salesasaseva
+[2025-12-08 22:57:25]   ✓ Extracted: Software Engineer at GIST
+[2025-12-08 22:57:25]   ✓ Extracted: Software Engineer at Icare Academy Hyderabad
+[2025-12-08 22:57:26]   ✓ Extracted: Software Engineer at ti Steps
+[2025-12-08 22:57:26]   ✓ Extracted: Software Engineer at ti Steps
+[2025-12-08 22:57:26]   ✓ Extracted: Engineer, Camera Software at Qualcomm
+[2025-12-08 22:57:26]   ✓ Extracted: Software Engineer at Sasken Technologies
+[2025-12-08 22:57:26]   ✓ Extracted: Software Engineer/Senior Software Engineer at Neemus Software
+[2025-12-08 22:57:26]   ✓ Extracted: immediate hiring For software engineer ( remote ) freshers at GIST
+[2025-12-08 22:57:26]   ✓ Extracted: Custom Software Engineer at Accenture
+[2025-12-08 22:57:26]   ✓ Extracted: Custom Software Engineer at Accenture
+[2025-12-08 22:57:26]   ✓ Extracted: Software Engineer at Metlife
+[2025-12-08 22:57:27]   ✓ Extracted: Software Engineer at GA Digital Solutions
+[2025-12-08 22:57:29] 🔍 Searching: Software Engineer in Chennai
+[2025-12-08 22:57:32] 📋 Found 20 jobs
+[2025-12-08 22:57:32]   ✓ Extracted: Software Engineer at Maples Capturing Technology Private Limited
+[2025-12-08 22:57:32]   ✓ Extracted: Software Engineer at GRA Enterprises
+[2025-12-08 22:57:32]   ✓ Extracted: Software Engineer, developer / Programmer, 2025 graduate Can also appl at Creative Hands HR
+[2025-12-08 22:57:33]   ✓ Extracted: Software Engineer at Scribble Data
+[2025-12-08 22:57:33]   ✓ Extracted: Software Engineer at Salesasaseva
+[2025-12-08 22:57:33]   ✓ Extracted: Software Engineer at GIST
+[2025-12-08 22:57:33]   ✓ Extracted: Software Engineer at Software Company
+[2025-12-08 22:57:33]   ✓ Extracted: Job Opening For Software Engg (Fresher) at MVT Financial Technologies
+[2025-12-08 22:57:33]   ✓ Extracted: Software Engineer at ti Steps
+[2025-12-08 22:57:33]   ✓ Extracted: Software Engineer at ti Steps
+[2025-12-08 22:57:33]   ✓ Extracted: Software Engineer at Jags Consulting Services
+[2025-12-08 22:57:33]   ✓ Extracted: Software Engineer at KLA
+[2025-12-08 22:57:34]   ✓ Extracted: Software Engineer at KLA
+[2025-12-08 22:57:34]   ✓ Extracted: Software Engineer at KLA
+[2025-12-08 22:57:34]   ✓ Extracted: Software Engineer at KLA
+[2025-12-08 22:57:36] 🔍 Searching: Software Engineer in Remote
+[2025-12-08 22:57:39] 📋 Found 20 jobs
+[2025-12-08 22:57:40]   ✓ Extracted: Software Engineer at Numerator
+[2025-12-08 22:57:40]   ✓ Extracted: Software Engineer at Numerator
+[2025-12-08 22:57:40]   ✓ Extracted: Software Engineer (.Net, Angular) at Numerator
+[2025-12-08 22:57:40]   ✓ Extracted: Senior Software Engineer, Wows/Desktop Applications at Speechify
+[2025-12-08 22:57:40]   ✓ Extracted: Associate Software Engineer (Integration team) at Groundtruth
+[2025-12-08 22:57:40]   ✓ Extracted: Software Engineer Intern at Mhtechin
+[2025-12-08 22:57:40]   ✓ Extracted: Software Engineer Intern - SVNIT at Entnt
+[2025-12-08 22:57:40]   ✓ Extracted: Junior Software Engineer Intern at Temetatech
+[2025-12-08 22:57:40]   ✓ Extracted: Senior Software Engineer at Hummingbird Travels
+[2025-12-08 22:57:41]   ✓ Extracted: SOFTWARE ENGINEER (FULL STACK)- INTERN at Matsci Ai
+[2025-12-08 22:57:41]   ✓ Extracted: Software Engineer, Frontend at Glean
+[2025-12-08 22:57:41]   ✓ Extracted: Senior Software Engineer (Back-end, SaaS, Python) at Iterative Knowledge Solutions
+[2025-12-08 22:57:41]   ✓ Extracted: Software Engineer, Backend at Glean
+[2025-12-08 22:57:41]   ✓ Extracted: Ctomer Experience Engineer (Community) at Stackblitz
+[2025-12-08 22:57:41]   ✓ Extracted: Founding Engineer at Freshprints
+[2025-12-08 22:57:43] 🔍 Searching: Machine Learning Engineer in Bangalore
+[2025-12-08 22:57:47] 📋 Found 20 jobs
+[2025-12-08 22:57:47]   ✓ Extracted: Principal Engineer, Engineering at Western Digital
+[2025-12-08 22:57:47]   ✓ Extracted: Lead Machine Learning Engineer at ShareChat
+[2025-12-08 22:57:47]   ✓ Extracted: Engineer at Qualcomm
+[2025-12-08 22:57:47]   ✓ Extracted: Data Analyst at Kantar
+[2025-12-08 22:57:47]   ✓ Extracted: Data Analyst at Bombay Play
+[2025-12-08 22:57:47]   ✓ Extracted: Software Engineer/Senior Software Engineer at Neemus Software
+[2025-12-08 22:57:47]   ✓ Extracted: Junior AI Engineer (India) at Micro1
+[2025-12-08 22:57:48]   ✓ Extracted: Junior Python / AI Developer at Exalogico Systems And Services
+[2025-12-08 22:57:48]   ✓ Extracted: ML/AI Intern at Verse Innovation Pvt. Ltd.
+[2025-12-08 22:57:48]   ✓ Extracted: AI Automation Engineer at R C W M A S Global
+[2025-12-08 22:57:48]   ✓ Extracted: Lead Engineer at Scribble Data
+[2025-12-08 22:57:48]   ✓ Extracted: Software Engineer at Scribble Data
+[2025-12-08 22:57:48]   ✓ Extracted: Software Engineer, AIML - Fixed Term Contract (6 months) at Natwest Digitalx
+[2025-12-08 22:57:48]   ✓ Extracted: Research Intern - Platform For AI at IBM
+[2025-12-08 22:57:48]   ✓ Extracted: Software Engineer, AIML at NatWest Markets
+[2025-12-08 22:57:50] 🔍 Searching: Machine Learning Engineer in Mumbai
+[2025-12-08 22:57:54] 📋 Found 20 jobs
+[2025-12-08 22:57:54]   ✓ Extracted: Machine Learning Engineer at Prodigal
+[2025-12-08 22:57:54]   ✓ Extracted: Junior AI Engineer (India) at Micro1
+[2025-12-08 22:57:54]   ✓ Extracted: AI Automation Engineer at R C W M A S Global
+[2025-12-08 22:57:54]   ✓ Extracted: Lead Engineer at Scribble Data
+[2025-12-08 22:57:54]   ✓ Extracted: Software Engineer at Scribble Data
+[2025-12-08 22:57:54]   ✓ Extracted: AI/ML Inter || Immediate Joiner || Only For Mumbai Location at Innovator Web
+[2025-12-08 22:57:55]   ✓ Extracted: Computer Science Engineer BSc (Freelancer) at Soul Ai
+[2025-12-08 22:57:55]   ✓ Extracted: Computer Science Engineer MSc (Freelancer) at Soul Ai
+[2025-12-08 22:57:55]   ✓ Extracted: Process Engineer MSc (Freelancer) at Soul Ai
+[2025-12-08 22:57:55]   ✓ Extracted: Process Engineer BSc (Freelancer) at Soul Ai
+[2025-12-08 22:57:55]   ✓ Extracted: Principal Data Scientist / Senior Data Scientist / Data Scientist at Benovymed Healthcare Private Ltd
+[2025-12-08 22:57:55]   ✓ Extracted: Data Annotation- Dermatalogy at Wadhwani Ai
+[2025-12-08 22:57:55]   ✓ Extracted: Generative AI and AI/ML Intern - Unpaid 6 months AIvidya.org at Itester
+[2025-12-08 22:57:56]   ✓ Extracted: Principal Data Scientist/Senior Data Scientist/Data Scientist - NLP/ML at Benovymed Healthcare Private Limited
+[2025-12-08 22:57:56]   ✓ Extracted: Principal Data Scientist / Sr. Data Scientist / Data Scientist - NLP at Benovymed Healthcare Private Ltd
+[2025-12-08 22:57:58] 🔍 Searching: Machine Learning Engineer in Hyderabad
+[2025-12-08 22:58:01] 📋 Found 20 jobs
+[2025-12-08 22:58:02]   ✓ Extracted: Machine Learning Engineer at Eizen
+[2025-12-08 22:58:02]   ✓ Extracted: Engineer at Finisar Corporation
+[2025-12-08 22:58:02]   ✓ Extracted: Software Engineer/Senior Software Engineer at Neemus Software
+[2025-12-08 22:58:02]   ✓ Extracted: Junior AI Engineer (India) at Micro1
+[2025-12-08 22:58:02]   ✓ Extracted: AI Automation Engineer at R C W M A S Global
+[2025-12-08 22:58:02]   ✓ Extracted: Lead Engineer at Scribble Data
+[2025-12-08 22:58:02]   ✓ Extracted: Software Engineer at Scribble Data
+[2025-12-08 22:58:03]   ✓ Extracted: Data Scientist at Hbic Solutions
+[2025-12-08 22:58:03]   ✓ Extracted: Applied Scientist II at Amazon
+[2025-12-08 22:58:03]   ✓ Extracted: Process Engineer BSc (Freelancer) at Soul Ai
+[2025-12-08 22:58:03]   ✓ Extracted: Natural Language Processing Engineer (Freelancer) at Soul Ai
+[2025-12-08 22:58:03]   ✓ Extracted: Senior Engineer - AI Camera at Qualcomm
+[2025-12-08 22:58:03]   ✓ Extracted: Computer Science Engineer MSc (Freelancer) at Soul Ai
+[2025-12-08 22:58:03]   ✓ Extracted: Natural Language Processing Engineer (Freelancer) at Soul Ai
+[2025-12-08 22:58:04]   ✓ Extracted: DGCA Licensed Drone Pilot at Marvel Geospatial Solutions
+[2025-12-08 22:58:06] 🔍 Searching: Machine Learning Engineer in Chennai
+[2025-12-08 22:58:09] 📋 Found 20 jobs
+[2025-12-08 22:58:09]   ✓ Extracted: Data Engineer / Analyst at We Shine Academy
+[2025-12-08 22:58:10]   ✓ Extracted: AI ML Data Engineer at KLA
+[2025-12-08 22:58:10]   ✓ Extracted: Hiring For FEA Engineer with AI/ML Lennox Chennai at Lennox India Technology Centre (LITC)
+[2025-12-08 22:58:10]   ✓ Extracted: Urgent Hiring For IT Full Stack Developers & Software Roles and Non-IT at Just Hire Technologies
+[2025-12-08 22:58:10]   ✓ Extracted: R&D Associate at India Health Link
+[2025-12-08 22:58:10]   ✓ Extracted: Software Engineer/Senior Software Engineer at Neemus Software
+[2025-12-08 22:58:10]   ✓ Extracted: Junior AI Engineer (India) at Micro1
+[2025-12-08 22:58:10]   ✓ Extracted: AI ML Data Engineer at KLA
+[2025-12-08 22:58:10]   ✓ Extracted: Principal Data Scientist/Senior Data Scientist/Data Scientist at Benovymed Healthcare Private Limited
+[2025-12-08 22:58:11]   ✓ Extracted: Principal Data Scientist/Senior Data Scientist/Data Scientist - NLP at Benovymed Healthcare Private Limited
+[2025-12-08 22:58:11]   ✓ Extracted: Senior Analyst -FEA at Lennox India Technology Centre (LITC)
+[2025-12-08 22:58:11]   ✓ Extracted: AI/ML Research Development Intern Victopia Labs at Victopia Labs (Enterprise Software Solutions)
+[2025-12-08 22:58:11]   ✓ Extracted: Data Science Engineer at Jidoka Technologies
+[2025-12-08 22:58:11]   ✓ Extracted: Post Graduate Engineering Trainee - FEA at Lennox India Technology Centre (LITC)
+[2025-12-08 22:58:11]   ✓ Extracted: AI Automation Engineer at R C W M A S Global
+[2025-12-08 22:58:13] 🔍 Searching: Machine Learning Engineer in Remote
+[2025-12-08 22:58:17] 📋 Found 20 jobs
+[2025-12-08 22:58:17]   ✓ Extracted: Staff Machine Learning Engineer at Adalat Ai
+[2025-12-08 22:58:18]   ✓ Extracted: Data Mining Associate at Adalat Ai
+[2025-12-08 22:58:18]   ✓ Extracted: AI/ML Engineer at Onelab Ventures
+[2025-12-08 22:58:18]   ✓ Extracted: Junior AI Solutions Developer SeerTech Systems at Seertech System
+[2025-12-08 22:58:18]   ✓ Extracted: Kafka Developer at Busigence Technologies
+[2025-12-08 22:58:18]   ✓ Extracted: AI Developer at SNS System
+[2025-12-08 22:58:18]   ✓ Extracted: Software Engineer at Numerator
+[2025-12-08 22:58:18]   ✓ Extracted: Data Engineer - Python at Busigence Technologies
+[2025-12-08 22:58:18]   ✓ Extracted: Senior Software Engineer (Back-end, SaaS, Python) at Iterative Knowledge Solutions
+[2025-12-08 22:58:18]   ✓ Extracted: Fresher - Data Science Engineer at Busigence Technologies
+[2025-12-08 22:58:19]   ✓ Extracted: Django Developer at Busigence Technologies
+[2025-12-08 22:58:19]   ✓ Extracted: Machine Learning Intern at Eyerov
+[2025-12-08 22:58:19]   ✓ Extracted: Python Application Developer at SNS System
+[2025-12-08 22:58:19]   ✓ Extracted: Deep Learning Engineer at Seaportai
+[2025-12-08 22:58:19]   ✓ Extracted: Python Developer at Vinnovate Technologies
+[2025-12-08 22:58:21] 
+📊 Total jobs found: 300
+[2025-12-08 22:58:21] ================================================================================
+[2025-12-08 22:58:21] 
+⚠️  IMPORTANT: The bot will now analyze jobs and apply to matching ones.
+[2025-12-08 22:58:21] 📝 Maximum applications today: 10
+[2025-12-08 22:58:21] 📊 Minimum match score: 75%
+[2025-12-08 22:58:21] 
+🤔 Do you want to proceed with automatic applications?
+[2025-12-08 22:58:21]    Type 'yes' to continue, or 'no' to just analyze without applying:
+[2025-12-08 23:03:26] ✅ Analysis mode only - will NOT apply to jobs automatically.
+[2025-12-08 23:03:26] ================================================================================
+[2025-12-08 23:03:26] 
+[1/300] Analyzing: Python Developer at Appzlogic
+[2025-12-08 23:03:27] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:03:27]   📊 Match Score: 0%
+[2025-12-08 23:03:27]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:03:27]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:03:29] 
+[2/300] Analyzing: Python Developer at Cybrosys
+[2025-12-08 23:03:29] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:03:29]   📊 Match Score: 0%
+[2025-12-08 23:03:29]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:03:29]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:03:31] 
+[3/300] Analyzing: Python Software Developer at Vibry Business Solutions
+[2025-12-08 23:03:31] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:03:31]   📊 Match Score: 0%
+[2025-12-08 23:03:31]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:03:31]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:03:33] 
+[4/300] Analyzing: Python Developer at Huntertech Ventures
+[2025-12-08 23:03:33] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:03:33]   📊 Match Score: 0%
+[2025-12-08 23:03:33]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:03:33]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:03:35] 
+[5/300] Analyzing: Python Developer at Billions United
+[2025-12-08 23:03:36] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:03:36]   📊 Match Score: 0%
+[2025-12-08 23:03:36]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:03:36]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:03:38] 
+[6/300] Analyzing: Python developer at Wadhwani Foundation
+[2025-12-08 23:03:38] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:03:38]   📊 Match Score: 0%
+[2025-12-08 23:03:38]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:03:38]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:03:40] 
+[7/300] Analyzing: Python Developer at Storilabs System
+[2025-12-08 23:03:40] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:03:40]   📊 Match Score: 0%
+[2025-12-08 23:03:40]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:03:40]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:03:42] 
+[8/300] Analyzing: Python Developer at Conneqt
+[2025-12-08 23:03:42] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:03:42]   📊 Match Score: 0%
+[2025-12-08 23:03:42]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:03:42]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:03:44] 
+[9/300] Analyzing: Python Developer at 47billion
+[2025-12-08 23:03:45] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:03:45]   📊 Match Score: 0%
+[2025-12-08 23:03:45]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:03:45]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:03:47] 
+[10/300] Analyzing: Python/Web Developer at Qantom
+[2025-12-08 23:03:47] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:03:47]   📊 Match Score: 0%
+[2025-12-08 23:03:47]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:03:47]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:03:49] 
+[11/300] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 23:03:49] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:03:49]   📊 Match Score: 0%
+[2025-12-08 23:03:49]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:03:49]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:03:51] 
+[12/300] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 23:03:51] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:03:51]   📊 Match Score: 0%
+[2025-12-08 23:03:51]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:03:51]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:03:53] 
+[13/300] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 23:03:53] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:03:53]   📊 Match Score: 0%
+[2025-12-08 23:03:53]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:03:53]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:03:55] 
+[14/300] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 23:03:56] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:03:56]   📊 Match Score: 0%
+[2025-12-08 23:03:56]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:03:56]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:03:58] 
+[15/300] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 23:03:58] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:03:58]   📊 Match Score: 0%
+[2025-12-08 23:03:58]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:03:58]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:00] 
+[16/300] Analyzing: Python Developer at Appzlogic
+[2025-12-08 23:04:00] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:00]   📊 Match Score: 0%
+[2025-12-08 23:04:00]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:00]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:02] 
+[17/300] Analyzing: Python Developer at Lumina Datamatics
+[2025-12-08 23:04:02] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:02]   📊 Match Score: 0%
+[2025-12-08 23:04:02]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:02]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:04] 
+[18/300] Analyzing: Python Developer at Reapmind Innovations
+[2025-12-08 23:04:04] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:04]   📊 Match Score: 0%
+[2025-12-08 23:04:04]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:04]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:06] 
+[19/300] Analyzing: Internship- Python Developer at Viga Entertainment Technology
+[2025-12-08 23:04:07] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:07]   📊 Match Score: 0%
+[2025-12-08 23:04:07]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:07]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:09] 
+[20/300] Analyzing: Software Engineer at Salesasaseva
+[2025-12-08 23:04:09] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:09]   📊 Match Score: 0%
+[2025-12-08 23:04:09]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:09]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:11] 
+[21/300] Analyzing: Python Engineer at Scalereal Technologies
+[2025-12-08 23:04:11] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:11]   📊 Match Score: 0%
+[2025-12-08 23:04:11]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:11]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:13] 
+[22/300] Analyzing: Developer at Kiebot
+[2025-12-08 23:04:13] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:13]   📊 Match Score: 0%
+[2025-12-08 23:04:13]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:13]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:15] 
+[23/300] Analyzing: AI Software Engineer at Godigi Infotech
+[2025-12-08 23:04:15] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:15]   📊 Match Score: 0%
+[2025-12-08 23:04:15]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:15]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:17] 
+[24/300] Analyzing: SW Engineer IV at NCR Atleos
+[2025-12-08 23:04:18] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:18]   📊 Match Score: 0%
+[2025-12-08 23:04:18]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:18]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:20] 
+[25/300] Analyzing: SPFx Developer at Prosares Solutions
+[2025-12-08 23:04:20] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:20]   📊 Match Score: 0%
+[2025-12-08 23:04:20]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:20]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:22] 
+[26/300] Analyzing: Developer at Upkar Leasing And Finance Company
+[2025-12-08 23:04:22] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:22]   📊 Match Score: 0%
+[2025-12-08 23:04:22]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:22]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:24] 
+[27/300] Analyzing: Apigee Developer at Diverse Lynx
+[2025-12-08 23:04:24] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:24]   📊 Match Score: 0%
+[2025-12-08 23:04:24]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:24]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:26] 
+[28/300] Analyzing: Junior AI Engineer (India) at Micro1
+[2025-12-08 23:04:26] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:26]   📊 Match Score: 0%
+[2025-12-08 23:04:26]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:26]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:28] 
+[29/300] Analyzing: Senior Python & Spark Developer at Mantras2success Consultants
+[2025-12-08 23:04:29] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:29]   📊 Match Score: 0%
+[2025-12-08 23:04:29]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:29]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:31] 
+[30/300] Analyzing: AI Automation Engineer at R C W M A S Global
+[2025-12-08 23:04:31] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:31]   📊 Match Score: 0%
+[2025-12-08 23:04:31]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:31]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:33] 
+[31/300] Analyzing: Python Developer at Appzlogic
+[2025-12-08 23:04:33] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:33]   📊 Match Score: 0%
+[2025-12-08 23:04:33]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:33]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:35] 
+[32/300] Analyzing: Python Developer at Jobsmill
+[2025-12-08 23:04:35] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:35]   📊 Match Score: 0%
+[2025-12-08 23:04:35]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:35]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:37] 
+[33/300] Analyzing: Python Software Developer at Vibry Business Solutions
+[2025-12-08 23:04:38] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:38]   📊 Match Score: 0%
+[2025-12-08 23:04:38]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:38]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:40] 
+[34/300] Analyzing: Python Developer at Clerro Technologies
+[2025-12-08 23:04:40] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:40]   📊 Match Score: 0%
+[2025-12-08 23:04:40]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:40]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:42] 
+[35/300] Analyzing: Python Developer at Virtue Software Technologies
+[2025-12-08 23:04:42] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:42]   📊 Match Score: 0%
+[2025-12-08 23:04:42]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:42]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:44] 
+[36/300] Analyzing: Python Developer at Indium Software
+[2025-12-08 23:04:44] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:44]   📊 Match Score: 0%
+[2025-12-08 23:04:44]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:44]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:46] 
+[37/300] Analyzing: Python Developer at Abbineni Business Management
+[2025-12-08 23:04:47] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:47]   📊 Match Score: 0%
+[2025-12-08 23:04:47]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:47]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:49] 
+[38/300] Analyzing: Python Developer at Navariti Innovation
+[2025-12-08 23:04:49] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:49]   📊 Match Score: 0%
+[2025-12-08 23:04:49]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:49]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:51] 
+[39/300] Analyzing: Python Developer at Fusion Plus Solutions Inc
+[2025-12-08 23:04:51] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:51]   📊 Match Score: 0%
+[2025-12-08 23:04:51]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:51]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:53] 
+[40/300] Analyzing: Python Developer at Fusion Plus Solutions Inc
+[2025-12-08 23:04:53] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:53]   📊 Match Score: 0%
+[2025-12-08 23:04:53]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:53]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:55] 
+[41/300] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 23:04:55] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:55]   📊 Match Score: 0%
+[2025-12-08 23:04:55]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:55]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:04:57] 
+[42/300] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 23:04:58] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:04:58]   📊 Match Score: 0%
+[2025-12-08 23:04:58]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:04:58]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:05:00] 
+[43/300] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 23:05:02] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:05:02]   📊 Match Score: 0%
+[2025-12-08 23:05:02]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:05:02]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:05:04] 
+[44/300] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 23:05:04] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:05:04]   📊 Match Score: 0%
+[2025-12-08 23:05:04]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:05:04]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:05:06] 
+[45/300] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 23:05:07] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:05:07]   📊 Match Score: 0%
+[2025-12-08 23:05:07]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:05:07]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:05:09] 
+[46/300] Analyzing: Python Developer at Appzlogic
+[2025-12-08 23:05:10] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:05:10]   📊 Match Score: 0%
+[2025-12-08 23:05:10]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:05:10]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:05:12] 
+[47/300] Analyzing: Python Developer at DLK Technologies
+[2025-12-08 23:05:13] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:05:13]   📊 Match Score: 0%
+[2025-12-08 23:05:13]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:05:13]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:05:15] 
+[48/300] Analyzing: Python Developer at Surya Informatics
+[2025-12-08 23:05:16] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:05:16]   📊 Match Score: 0%
+[2025-12-08 23:05:16]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:05:16]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:05:18] 
+[49/300] Analyzing: Python Developer at ewallsolutions
+[2025-12-08 23:05:18] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:05:18]   📊 Match Score: 0%
+[2025-12-08 23:05:18]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:05:18]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:05:20] 
+[50/300] Analyzing: Python Developer 15 Positions at Added Value Technologies
+[2025-12-08 23:05:21] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:05:21]   📊 Match Score: 0%
+[2025-12-08 23:05:21]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:05:21]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:05:23] 
+[51/300] Analyzing: Python Web Developer at Uandwe Technologies
+[2025-12-08 23:05:24] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:05:24]   📊 Match Score: 0%
+[2025-12-08 23:05:24]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:05:24]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:05:26] 
+[52/300] Analyzing: Python and JavaScript Developer at Sutherland Global Services Inc
+[2025-12-08 23:05:26] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:05:26]   📊 Match Score: 0%
+[2025-12-08 23:05:26]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:05:26]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:05:28] 
+[53/300] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 23:05:29] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:05:29]   📊 Match Score: 0%
+[2025-12-08 23:05:29]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:05:29]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:05:31] 
+[54/300] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 23:05:31] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:05:31]   📊 Match Score: 0%
+[2025-12-08 23:05:31]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:05:31]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:05:33] 
+[55/300] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 23:05:34] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:05:34]   📊 Match Score: 0%
+[2025-12-08 23:05:34]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:05:34]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:05:36] 
+[56/300] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 23:05:36] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:05:36]   📊 Match Score: 0%
+[2025-12-08 23:05:36]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:05:36]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:05:38] 
+[57/300] Analyzing: Python Software Developer at ti Steps
+[2025-12-08 23:05:38] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:05:38]   📊 Match Score: 0%
+[2025-12-08 23:05:38]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:05:38]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:05:40] 
+[58/300] Analyzing: Internship- Python Developer at Viga Entertainment Technology
+[2025-12-08 23:05:40] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:05:40]   📊 Match Score: 0%
+[2025-12-08 23:05:40]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:05:40]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:05:42] 
+[59/300] Analyzing: DEVELOPER INTERNSHIP at AATMIA DIGITAL MARKETING AND SECURITY PRIVATE LIMITED
+[2025-12-08 23:05:42] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:05:42]   📊 Match Score: 0%
+[2025-12-08 23:05:42]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:05:42]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:05:44] 
+[60/300] Analyzing: Software Engineer at Maples Capturing Technology Private Limited
+[2025-12-08 23:05:45] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:05:45]   📊 Match Score: 0%
+[2025-12-08 23:05:45]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:05:45]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:05:47] 
+[61/300] Analyzing: Python Developer at Vinnovate Technologies
+[2025-12-08 23:05:47] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:05:47]   📊 Match Score: 0%
+[2025-12-08 23:05:47]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:05:47]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:05:49] 
+[62/300] Analyzing: Python Developer at Jalopeura Technology
+[2025-12-08 23:05:49] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:05:49]   📊 Match Score: 0%
+[2025-12-08 23:05:49]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:05:49]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:05:51] 
+[63/300] Analyzing: Software Engineer at Numerator
+[2025-12-08 23:05:51] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:05:51]   📊 Match Score: 0%
+[2025-12-08 23:05:51]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:05:51]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:05:53] 
+[64/300] Analyzing: Python Application Developer at SNS System
+[2025-12-08 23:05:53] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:05:53]   📊 Match Score: 0%
+[2025-12-08 23:05:53]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:05:53]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:05:55] 
+[65/300] Analyzing: Junior AI Solutions Developer SeerTech Systems at Seertech System
+[2025-12-08 23:05:55] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:05:55]   📊 Match Score: 0%
+[2025-12-08 23:05:55]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:05:55]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:05:57] 
+[66/300] Analyzing: NLP Developer at Busigence Technologies
+[2025-12-08 23:05:58] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:05:58]   📊 Match Score: 0%
+[2025-12-08 23:05:58]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:05:58]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:00] 
+[67/300] Analyzing: Kafka Developer at Busigence Technologies
+[2025-12-08 23:06:00] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:00]   📊 Match Score: 0%
+[2025-12-08 23:06:00]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:00]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:02] 
+[68/300] Analyzing: NLP Developer at Busigence Technologies
+[2025-12-08 23:06:02] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:02]   📊 Match Score: 0%
+[2025-12-08 23:06:02]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:02]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:04] 
+[69/300] Analyzing: AI Developer at SNS System
+[2025-12-08 23:06:04] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:04]   📊 Match Score: 0%
+[2025-12-08 23:06:04]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:04]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:06] 
+[70/300] Analyzing: Senior Software Engineer (Back-end, SaaS, Python) at Iterative Knowledge Solutions
+[2025-12-08 23:06:07] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:07]   📊 Match Score: 0%
+[2025-12-08 23:06:07]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:07]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:09] 
+[71/300] Analyzing: Fresher - Data Science Engineer at Busigence Technologies
+[2025-12-08 23:06:09] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:09]   📊 Match Score: 0%
+[2025-12-08 23:06:09]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:09]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:11] 
+[72/300] Analyzing: Fresher - Data Engineer at Busigence Technologies
+[2025-12-08 23:06:11] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:11]   📊 Match Score: 0%
+[2025-12-08 23:06:11]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:11]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:13] 
+[73/300] Analyzing: Django Developer at Busigence Technologies
+[2025-12-08 23:06:14] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:14]   📊 Match Score: 0%
+[2025-12-08 23:06:14]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:14]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:16] 
+[74/300] Analyzing: Machine Learning Intern at Eyerov
+[2025-12-08 23:06:16] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:16]   📊 Match Score: 0%
+[2025-12-08 23:06:16]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:16]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:18] 
+[75/300] Analyzing: SKS Intern at SKS Enterpprises
+[2025-12-08 23:06:18] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:18]   📊 Match Score: 0%
+[2025-12-08 23:06:18]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:18]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:20] 
+[76/300] Analyzing: Data Scientist at Han Digital Solution
+[2025-12-08 23:06:20] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:20]   📊 Match Score: 0%
+[2025-12-08 23:06:20]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:20]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:22] 
+[77/300] Analyzing: Data Scientist I at 360DigiTMG
+[2025-12-08 23:06:23] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:23]   📊 Match Score: 0%
+[2025-12-08 23:06:23]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:23]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:25] 
+[78/300] Analyzing: Data Scientist, I at Antuit
+[2025-12-08 23:06:25] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:25]   📊 Match Score: 0%
+[2025-12-08 23:06:25]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:25]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:27] 
+[79/300] Analyzing: Data Scientist at Data Collection Infotech
+[2025-12-08 23:06:27] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:27]   📊 Match Score: 0%
+[2025-12-08 23:06:27]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:27]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:29] 
+[80/300] Analyzing: Data Scientist at ti Steps
+[2025-12-08 23:06:29] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:29]   📊 Match Score: 0%
+[2025-12-08 23:06:29]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:29]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:31] 
+[81/300] Analyzing: Data Scientist at ti Steps
+[2025-12-08 23:06:32] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:32]   📊 Match Score: 0%
+[2025-12-08 23:06:32]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:32]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:34] 
+[82/300] Analyzing: Data Scientist at Akaike Technologies
+[2025-12-08 23:06:34] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:34]   📊 Match Score: 0%
+[2025-12-08 23:06:34]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:34]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:36] 
+[83/300] Analyzing: Data Scientist at ti Steps
+[2025-12-08 23:06:36] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:36]   📊 Match Score: 0%
+[2025-12-08 23:06:36]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:36]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:38] 
+[84/300] Analyzing: Data Scientist at ti Steps
+[2025-12-08 23:06:39] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:39]   📊 Match Score: 0%
+[2025-12-08 23:06:39]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:39]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:41] 
+[85/300] Analyzing: Data Scientist at ti Steps
+[2025-12-08 23:06:41] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:41]   📊 Match Score: 0%
+[2025-12-08 23:06:41]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:41]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:43] 
+[86/300] Analyzing: Data Scientist at ti Steps
+[2025-12-08 23:06:43] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:43]   📊 Match Score: 0%
+[2025-12-08 23:06:43]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:43]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:45] 
+[87/300] Analyzing: Data Scientist at LLP S3bglobal Technologies
+[2025-12-08 23:06:46] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:46]   📊 Match Score: 0%
+[2025-12-08 23:06:46]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:46]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:48] 
+[88/300] Analyzing: Principal Data Scientist / Senior Data Scientist/ Data Scientist - NLP at Benovymed Healthcare Private Limited
+[2025-12-08 23:06:48] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:48]   📊 Match Score: 0%
+[2025-12-08 23:06:48]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:48]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:50] 
+[89/300] Analyzing: Principal Data Scientist/Senior Data Scientist/Data Scientist at Benovymed Healthcare Private Ltd
+[2025-12-08 23:06:50] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:50]   📊 Match Score: 0%
+[2025-12-08 23:06:50]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:50]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:52] 
+[90/300] Analyzing: Associate Data Scientist at KAS Services
+[2025-12-08 23:06:52] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:52]   📊 Match Score: 0%
+[2025-12-08 23:06:52]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:52]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:54] 
+[91/300] Analyzing: Principal Data Scientist / Senior Data Scientist / Data Scientist at Benovymed Healthcare Private Ltd
+[2025-12-08 23:06:54] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:54]   📊 Match Score: 0%
+[2025-12-08 23:06:54]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:54]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:56] 
+[92/300] Analyzing: Principal Data Scientist/Senior Data Scientist/Data Scientist - NLP/ML at Benovymed Healthcare Private Limited
+[2025-12-08 23:06:57] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:57]   📊 Match Score: 0%
+[2025-12-08 23:06:57]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:57]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:06:59] 
+[93/300] Analyzing: Principal Data Scientist / Sr. Data Scientist / Data Scientist - NLP at Benovymed Healthcare Private Ltd
+[2025-12-08 23:06:59] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:06:59]   📊 Match Score: 0%
+[2025-12-08 23:06:59]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:06:59]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:07:01] 
+[94/300] Analyzing: Data Scientist Malaysia/ India recruiting for80 Clients at Monde Corporation (MNC)
+[2025-12-08 23:07:01] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:07:01]   📊 Match Score: 0%
+[2025-12-08 23:07:01]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:07:01]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:07:03] 
+[95/300] Analyzing: Data Analyst /Data Scientist-PAN India at SAP Servers Tech
+[2025-12-08 23:07:03] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:07:03]   📊 Match Score: 0%
+[2025-12-08 23:07:03]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:07:03]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:07:05] 
+[96/300] Analyzing: Spark Developer at Appzlogic
+[2025-12-08 23:07:06] ❌ AI analysis error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+[2025-12-08 23:07:06]   📊 Match Score: 0%
+[2025-12-08 23:07:06]   💭 Reasoning: Error: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for gene...
+[2025-12-08 23:07:06]   ℹ️  Analysis only mode - not applying
+[2025-12-08 23:23:25] ================================================================================
+[2025-12-08 23:23:25] ╔═══════════════════════════════════════════════════════════════════════════════╗
+[2025-12-08 23:23:25] ║                   🤖 ADVANCED AI JOB APPLICATION BOT                          ║
+[2025-12-08 23:23:25] ║                   👨‍💻 Developed by: Vignesh Yadala                              ║
+[2025-12-08 23:23:25] ║                   📅 Version: December 2025                                    ║
+[2025-12-08 23:23:25] ║                   🚀 Powered by Google Gemini AI                              ║
+[2025-12-08 23:23:25] ╚═══════════════════════════════════════════════════════════════════════════════╝
+[2025-12-08 23:23:25] ================================================================================
+[2025-12-08 23:23:25] 📧 Email: vignesh.yadala@gmail.com
+[2025-12-08 23:23:25] 🎯 Target Roles: Python Developer, Data Scientist, Software Engineer, Machine Learning Engineer
+[2025-12-08 23:23:25] 📍 Target Locations: Bangalore, Mumbai, Hyderabad, Chennai, Remote
+[2025-12-08 23:23:25] 📊 Min Match Score: 75%
+[2025-12-08 23:23:25] 📝 Max Applications Today: 10
+[2025-12-08 23:23:25] ================================================================================
+[2025-12-08 23:23:27] 🔐 Logging into Naukri.com...
+[2025-12-08 23:23:32]   ✓ Email filled using selector: input[type='text']
+[2025-12-08 23:23:33]   ✓ Password filled using selector: input[type='password']
+[2025-12-08 23:23:34]   ✓ Login button clicked
+[2025-12-08 23:23:39] ⚠️  Waiting for login to complete...
+[2025-12-08 23:23:39] ⏸️  If you see CAPTCHA or need to verify, do it now.
+[2025-12-08 23:23:39] ⏸️  Press ENTER after you've logged in...
+[2025-12-08 23:58:19] ================================================================================
+[2025-12-08 23:58:19] ╔═══════════════════════════════════════════════════════════════════════════════╗
+[2025-12-08 23:58:19] ║           🤖 ENHANCED AI JOB APPLICATION BOT - MULTI COMPANY                 ║
+[2025-12-08 23:58:19] ║           👨‍💻 Developed by: Vignesh Yadala                                    ║
+[2025-12-08 23:58:19] ║           📅 Version: December 2025                                           ║
+[2025-12-08 23:58:19] ║           🚀 Powered by Google Gemini AI                                      ║
+[2025-12-08 23:58:19] ╚═══════════════════════════════════════════════════════════════════════════════╝
+[2025-12-08 23:58:19] ================================================================================
+[2025-12-08 23:58:19] 🎯 Target Roles: Python Developer, Data Scientist, Software Engineer, Machine Learning Engineer
+[2025-12-08 23:58:19] 📍 Target Locations: Bangalore, Mumbai, Hyderabad, Chennai, Remote
+[2025-12-08 23:58:19] 🏢 Companies: Naukri + 14 major tech companies
+[2025-12-08 23:58:19] 📊 Min Match Score: 75%
+[2025-12-08 23:58:19] 📝 Max Applications: 10
+[2025-12-08 23:58:19] ================================================================================
+[2025-12-08 23:58:23] 🔐 Logging into Naukri.com...
+[2025-12-08 23:58:37] ✅ Login successful!
+[2025-12-08 23:58:37] 
+🔍 PHASE 1: Scraping Naukri.com...
+[2025-12-08 23:58:37] 🔍 Naukri: Python Developer in Bangalore
+[2025-12-08 23:58:41]   ✓ Python Developer at Cybrosys
+[2025-12-08 23:58:42]   ✓ Python Software Developer at Swache Technologies
+[2025-12-08 23:58:42]   ✓ Python Developer at HARMAN
+[2025-12-08 23:58:42]   ✓ Python Developer at HARMAN
+[2025-12-08 23:58:42]   ✓ Python Developer at Mercedes Benz
+[2025-12-08 23:58:42]   ✓ Python Developer at Infosys
+[2025-12-08 23:58:43]   ✓ Python Developer at Infosys
+[2025-12-08 23:58:43]   ✓ Virtual Weekend Drive For Python Developer Role On 13th & 14th Dec. at Xoriant
+[2025-12-08 23:58:43]   ✓ Python Developer at Infosys
+[2025-12-08 23:58:44]   ✓ HCL is Hiring Python Developer at HCLTech
+[2025-12-08 23:58:46] 🔍 Naukri: Python Developer in Mumbai
+[2025-12-08 23:58:49]   ✓ Python Software Developer & Infosys- Pan India at Infosys
+[2025-12-08 23:58:50]   ✓ python Developer at HCLTech
+[2025-12-08 23:58:50]   ✓ Python Software Developer & Infosys- Pan India(F) at Infosys
+[2025-12-08 23:58:50]   ✓ Python Developer at Wcities
+[2025-12-08 23:58:50]   ✓ Python Developer at Quantum Phinance
+[2025-12-08 23:58:50]   ✓ Python Developer at Adform
+[2025-12-08 23:58:50]   ✓ Python Developer at First Call H Resource P. Ltd
+[2025-12-08 23:58:51]   ✓ Python Developer at First Call H Resource P. Ltd
+[2025-12-08 23:58:51]   ✓ Python Developer at Lumina Datamatics
+[2025-12-08 23:58:51]   ✓ Python Developer at Cloud Raptor
+[2025-12-08 23:58:53] 🔍 Naukri: Python Developer in Hyderabad
+[2025-12-08 23:58:57]   ✓ Python Software Developer at Vibry Business Solutions
+[2025-12-08 23:58:57]   ✓ Python Developer at Cotiviti
+[2025-12-08 23:58:57]   ✓ Python Software Developer - ENG @Infosys - PAN INDIA at Infosys
+[2025-12-08 23:58:57]   ✓ Opening For Python (AI/ML) Developer at Infosys
+[2025-12-08 23:58:57]   ✓ Python Developer at Virtusa
+[2025-12-08 23:58:57]   ✓ Python Software Developer- Bangalore (Pan India Infosys) at Infosys
+[2025-12-08 23:58:57]   ✓ Python Developer at Zensar
+[2025-12-08 23:58:57]   ✓ Python Software Developer at Infosys
+[2025-12-08 23:58:58]   ✓ python Developer at Cognizant
+[2025-12-08 23:58:58]   ✓ Python Developer-B at Infosys
+[2025-12-08 23:59:00] 🔍 Naukri: Python Developer in Chennai
+[2025-12-08 23:59:03]   ✓ Python Software Developer - ENG @Infosys - PAN INDIA at Infosys
+[2025-12-08 23:59:04]   ✓ Python Developer at Altimetrik
+[2025-12-08 23:59:04]   ✓ Opening For Python (AI/ML) Developer at Infosys
+[2025-12-08 23:59:04]   ✓ Immediate Hiring - Python Developer | Aziro at Aziro
+[2025-12-08 23:59:04]   ✓ HCL is Hiring Python Developer at HCLTech
+[2025-12-08 23:59:04]   ✓ Python Software Developer- Bangalore (Pan India Infosys) at Infosys
+[2025-12-08 23:59:04]   ✓ Python Developer at Altimetrik
+[2025-12-08 23:59:04]   ✓ Tcs Hiring ! Python Developer at Tata Consultancy Services
+[2025-12-08 23:59:05]   ✓ Python Developer Role With Maplelabs ( A Unit of Xoriant) at Xoriant
+[2025-12-08 23:59:05]   ✓ Python Software Developer at Infosys
+[2025-12-08 23:59:07] 🔍 Naukri: Python Developer in Remote
+[2025-12-08 23:59:11]   ✓ Python Developer at Vinnovate Technologies
+[2025-12-08 23:59:11]   ✓ Python Developer at Jalopeura Technology
+[2025-12-08 23:59:11]   ✓ Python Developer at Soul Ai
+[2025-12-08 23:59:11]   ✓ Python Developer at Eiosys
+[2025-12-08 23:59:11]   ✓ Python Developer at MNJ Software
+[2025-12-08 23:59:11]   ✓ Python Developer at Dynamic Vishva
+[2025-12-08 23:59:11]   ✓ Python Developer at Onelab Ventures
+[2025-12-08 23:59:12]   ✓ Python Developer at Limish
+[2025-12-08 23:59:12]   ✓ Python Developer, Pan India at Virtualware Innovations
+[2025-12-08 23:59:12]   ✓ Contract Python Developer at Flipkoins
+[2025-12-08 23:59:14] 🔍 Naukri: Data Scientist in Bangalore
+[2025-12-08 23:59:18]   ✓ Data Scientist at Philips
+[2025-12-08 23:59:18]   ✓ Data Scientist at Alstom
+[2025-12-08 23:59:18]   ✓ Data Scientist- Computer Vision at Capgemini
+[2025-12-08 23:59:18]   ✓ Data Scientist at Genpact
+[2025-12-08 23:59:18]   ✓ Data Scientist-Artificial Intelligence at IBM
+[2025-12-08 23:59:18]   ✓ Data Scientist at Metriqe Solutions
+[2025-12-08 23:59:18]   ✓ Data Scientist - Computer Vision at Capgemini
+[2025-12-08 23:59:18]   ✓ Data Scientist at HARMAN
+[2025-12-08 23:59:19]   ✓ Data Scientist-Artificial Intelligence at IBM
+[2025-12-08 23:59:19]   ✓ Data Scientist, D&T at West Pharmaceutical Services
+[2025-12-08 23:59:21] 🔍 Naukri: Data Scientist in Mumbai
+[2025-12-08 23:59:38]   ✓ Opportunity For Data Scientist MLOps/AI professionals at Atos
+[2025-12-08 23:59:38]   ✓ Data Scientist at Deloitte Consulting
+[2025-12-08 23:59:38]   ✓ Data Scientist at Soul Ai
+[2025-12-08 23:59:39]   ✓ Data Scientist at Soul Ai
+[2025-12-08 23:59:39]   ✓ ACG is hiring For Data Scientist. at ACG
+[2025-12-08 23:59:39]   ✓ Data Scientist at Persolkelly India
+[2025-12-08 23:59:39]   ✓ Data Scientist-Artificial Intelligence at IBM
+[2025-12-08 23:59:39]   ✓ Data Scientist at Fatakpay Digital
+[2025-12-08 23:59:40]   ✓ Data Scientist-Artificial Intelligence at IBM
+[2025-12-08 23:59:40]   ✓ Data Scientist - Innovation and Sustainability Digitalization at Huntsman International
+[2025-12-08 23:59:42] 🔍 Naukri: Data Scientist in Hyderabad
+[2025-12-08 23:59:46]   ✓ AI Engineer/Data Scientist(max 60 days notice period) at PwC Service Delivery Center
+[2025-12-08 23:59:46]   ✓ Data Scientist at Maddisoft Solutions
+[2025-12-08 23:59:46]   ✓ Data Scientist at Capgemini
+[2025-12-08 23:59:46]   ✓ Data Scientist-Artificial Intelligence at IBM
+[2025-12-08 23:59:46]   ✓ Data Scientist at Tata Consultancy Services
+[2025-12-08 23:59:47]   ✓ AIML Engineer & Data Scientist at Cloud Angles Digital Transformation
+[2025-12-08 23:59:47]   ✓ Data Scientist at Genpact
+[2025-12-08 23:59:47]   ✓ Data Scientist/AI ML Developer at Cloud Angles Digital Transformation
+[2025-12-08 23:59:47]   ✓ Data Scientist at Pepsico
+[2025-12-08 23:59:47]   ✓ Gen AI - Data Scientist at Cognizant
+[2025-12-08 23:59:49] 🔍 Naukri: Data Scientist in Chennai
+[2025-12-08 23:59:53]   ✓ Data Scientist at Saint Gobain
+[2025-12-08 23:59:53]   ✓ Data Scientist - PAN India (less than 30 days joiners) at Capgemini
+[2025-12-08 23:59:53]   ✓ Data Scientist at Capgemini
+[2025-12-08 23:59:53]   ✓ Data Scientist at ti Steps
+[2025-12-08 23:59:53]   ✓ Permanent Opportunity For Data Scientist @ Chennai/Bangalore/Pune/Hyd at Deloitte Consulting
+[2025-12-08 23:59:53]   ✓ Data Scientist at Xylem Water Solutions
+[2025-12-08 23:59:54]   ✓ Data Scientist at Metriqe Solutions
+[2025-12-08 23:59:54]   ✓ Gen AI - Data Scientist at Cognizant
+[2025-12-08 23:59:54]   ✓ Data Scientist at Ford
+[2025-12-08 23:59:54]   ✓ Data Scientist at InfoVision Inc
+[2025-12-08 23:59:56] 🔍 Naukri: Data Scientist in Remote

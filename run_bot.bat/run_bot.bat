@@ -1,0 +1,9 @@
+@echo off
+echo Starting AI Job Application Bot...
+start "Job Bot" cmd /k python enhanced_main.py
+timeout /t 3
+echo Starting Dashboard...
+start "Dashboard" cmd /k python app.py
+timeout /t 3
+echo Opening Dashboard in Browser...
+start http://localhost:5000

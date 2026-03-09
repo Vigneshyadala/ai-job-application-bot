@@ -1,0 +1,36 @@
+company,title,location,match_score,status,date
+TCS,Python Developer,Chennai,85,Applied,2025-12-09
+Infosys,Software Engineer,Bangalore,78,Applied,2025-12-09
+Wipro,Full Stack Developer,Mumbai,82,Applied,2025-12-09
+HCL,Backend Developer,Hyderabad,88,Applied,2025-12-09
+Tech Mahindra,DevOps Engineer,Pune,75,Pending,2025-12-09
+```
+
+**Save and close.**
+
+### Step 3: Refresh Dashboard
+
+Go to: http://localhost:5000
+
+Click the **🔄 Refresh** button
+
+**You should now see:**
+- Total Applications: **5**
+- Successful: **4**
+- Pending: **1**
+- Companies chart showing all 5 companies
+- Table with all jobs
+
+---
+
+## 🎯 If Dashboard Still Shows "No Data":
+
+### Option A: Hard Refresh Browser
+- Press **Ctrl + Shift + R** (force reload)
+- Or **Ctrl + F5**
+
+### Option B: Check app.py Terminal
+Look for messages like:
+```
+Found CSV files: ['applied_jobs.csv']
+Read 5 rows from applied_jobs.csv
